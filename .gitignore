@@ -163,5 +163,6 @@ cython_debug/
 
 TX_EV_Registrations.csv
 ca_ev_registrations.csv
+fl_ev_registrations.csv
 ca_ev_registrations_public.csv
 fl_ev_registrations_public.csv

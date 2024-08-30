@@ -169,6 +169,7 @@ cython_debug/
 *ev_registrations_public.csv
 population_2020-2023.csv
 population_2010-2019.csv
+*population_2024.csv
 
 # ╔════════════════════════════════════════╗
 # ║       Large CSV Files (Cleaned)        ║

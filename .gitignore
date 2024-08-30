@@ -163,17 +163,15 @@ cython_debug/
 
 .DS_Store
 
-
 # ╔════════════════════════════════════════╗
 # ║       Large CSV Files (Raw Data)       ║
 # ╚════════════════════════════════════════╝
-TX_EV_Registrations.csv
-ca_ev_registrations_public.csv
-fl_ev_registrations_public.csv
+*ev_registrations_public.csv
+population_2020-2023.csv
+population_2010-2019.csv
 
 # ╔════════════════════════════════════════╗
 # ║       Large CSV Files (Cleaned)        ║
 # ╚════════════════════════════════════════╝
-tx_ev_registrations.csv
-ca_ev_registrations.csv
-fl_ev_registrations.csv
+*ev_registrations.csv
+*zipcodes.csv

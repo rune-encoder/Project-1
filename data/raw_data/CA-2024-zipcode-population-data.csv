@@ -1,0 +1,1766 @@
+zip,population,city,county,state
+90011,106042,Los Angeles,Los Angeles County,Ca
+90650,101983,Norwalk,Los Angeles County,Ca
+94565,100826,Pittsburg,Contra Costa County,Ca
+92336,100571,Fontana,San Bernardino County,Ca
+91331,99804,Pacoima,Los Angeles County,Ca
+90044,98990,Los Angeles,Los Angeles County,Ca
+92335,96704,Fontana,San Bernardino County,Ca
+90805,96515,Long Beach,Los Angeles County,Ca
+90250,96200,Hawthorne,Los Angeles County,Ca
+90201,95134,Bell Gardens,Los Angeles County,Ca
+91342,92580,Sylmar,Los Angeles County,Ca
+90280,92262,South Gate,Los Angeles County,Ca
+92683,90630,Westminster,Orange County,Ca
+93307,89651,Bakersfield,Kern County,Ca
+92503,88617,Riverside,Riverside County,Ca
+91911,87799,Chula Vista,San Diego County,Ca
+92345,87476,Hesperia,San Bernardino County,Ca
+93722,86387,Fresno,Fresno County,Ca
+92376,85727,Rialto,San Bernardino County,Ca
+92804,84700,Anaheim,Orange County,Ca
+92154,83758,San Diego,San Diego County,Ca
+95076,83716,Watsonville,Santa Cruz County,Ca
+95823,82983,Sacramento,Sacramento County,Ca
+93033,82517,Oxnard,Ventura County,Ca
+93727,82176,Fresno,Fresno County,Ca
+92592,81636,Temecula,Riverside County,Ca
+93550,81501,Palmdale,Los Angeles County,Ca
+91710,81466,Chino,San Bernardino County,Ca
+93535,80905,Lancaster,Los Angeles County,Ca
+94112,80880,San Francisco,San Francisco County,Ca
+92704,80767,Santa Ana,Orange County,Ca
+92509,80325,Jurupa Valley,Riverside County,Ca
+95035,79393,Milpitas,Santa Clara County,Ca
+91744,79380,La Puente,Los Angeles County,Ca
+93257,79217,Porterville,Tulare County,Ca
+93274,78831,Tulare,Tulare County,Ca
+90706,78352,Bellflower,Los Angeles County,Ca
+91709,78341,Chino Hills,San Bernardino County,Ca
+92563,78139,Murrieta,Riverside County,Ca
+94533,78129,Fairfield,Solano County,Ca
+92126,78111,San Diego,San Diego County,Ca
+94544,77712,Hayward,Alameda County,Ca
+91335,77158,Reseda,Los Angeles County,Ca
+95630,76599,Folsom,Sacramento County,Ca
+91910,76313,Chula Vista,San Diego County,Ca
+95747,75681,Roseville,Placer County,Ca
+90003,75024,Los Angeles,Los Angeles County,Ca
+93306,74769,Bakersfield,Kern County,Ca
+92880,74645,Eastvale,Riverside County,Ca
+92553,73945,Moreno Valley,Riverside County,Ca
+92805,73310,Anaheim,Orange County,Ca
+92105,72688,San Diego,San Diego County,Ca
+91706,72495,Baldwin Park,Los Angeles County,Ca
+93536,72131,Lancaster,Los Angeles County,Ca
+93065,72086,Simi Valley,Ventura County,Ca
+90255,71654,Huntington Park,Los Angeles County,Ca
+94536,71445,Fremont,Alameda County,Ca
+94568,71068,Dublin,Alameda County,Ca
+91730,71040,Rancho Cucamonga,San Bernardino County,Ca
+95123,70952,San Jose,Santa Clara County,Ca
+94509,70889,Antioch,Contra Costa County,Ca
+94110,69679,San Francisco,San Francisco County,Ca
+92021,69638,El Cajon,San Diego County,Ca
+91766,69517,Pomona,Los Angeles County,Ca
+94587,69502,Union City,Alameda County,Ca
+92882,69472,Corona,Riverside County,Ca
+90037,69064,Los Angeles,Los Angeles County,Ca
+90631,69064,La Habra,Orange County,Ca
+95687,68996,Vacaville,Solano County,Ca
+93230,68572,Hanford,Kings County,Ca
+95020,68365,Gilroy,Santa Clara County,Ca
+95206,68031,Stockton,San Joaquin County,Ca
+91402,67937,Panorama City,Los Angeles County,Ca
+95624,67915,Elk Grove,Sacramento County,Ca
+94513,67580,Brentwood,Contra Costa County,Ca
+94541,67401,Hayward,Alameda County,Ca
+92407,67207,San Bernardino,San Bernardino County,Ca
+93906,66883,Salinas,Monterey County,Ca
+92114,66487,San Diego,San Diego County,Ca
+94080,66262,South San Francisco,San Mateo County,Ca
+92630,66240,Lake Forest,Orange County,Ca
+94538,66215,Fremont,Alameda County,Ca
+95758,66153,Elk Grove,Sacramento County,Ca
+90262,66073,Lynwood,Los Angeles County,Ca
+91977,65497,Spring Valley,San Diego County,Ca
+94015,65125,Daly City,San Mateo County,Ca
+94558,65084,Napa,Napa County,Ca
+90026,64769,Los Angeles,Los Angeles County,Ca
+92201,64325,Indio,Riverside County,Ca
+92677,64259,Laguna Niguel,Orange County,Ca
+92562,64155,Murrieta,Riverside County,Ca
+90022,64147,Los Angeles,Los Angeles County,Ca
+92404,64090,San Bernardino,San Bernardino County,Ca
+92801,64022,Anaheim,Orange County,Ca
+94806,63730,San Pablo,Contra Costa County,Ca
+95608,63715,Carmichael,Sacramento County,Ca
+90731,63431,San Pedro,Los Angeles County,Ca
+94501,63340,Alameda,Alameda County,Ca
+91343,63193,North Hills,Los Angeles County,Ca
+93905,63121,Salinas,Monterey County,Ca
+91762,62990,Ontario,San Bernardino County,Ca
+93309,62828,Bakersfield,Kern County,Ca
+90640,62294,Montebello,Los Angeles County,Ca
+95127,62269,San Jose,Santa Clara County,Ca
+91702,62196,Azusa,Los Angeles County,Ca
+92627,62181,Costa Mesa,Orange County,Ca
+92392,61859,Victorville,San Bernardino County,Ca
+91761,61837,Ontario,San Bernardino County,Ca
+92223,61686,Beaumont,Riverside County,Ca
+92703,61593,Santa Ana,Orange County,Ca
+90660,61561,Pico Rivera,Los Angeles County,Ca
+92115,61456,San Diego,San Diego County,Ca
+93291,61439,Visalia,Tulare County,Ca
+95014,61414,Cupertino,Santa Clara County,Ca
+92620,61110,Irvine,Orange County,Ca
+92507,60949,Riverside,Riverside County,Ca
+95828,60850,Sacramento,Sacramento County,Ca
+95051,60499,Santa Clara,Santa Clara County,Ca
+95355,60338,Modesto,Stanislaus County,Ca
+92647,60114,Huntington Beach,Orange County,Ca
+92346,60025,Highland,San Bernardino County,Ca
+93313,59924,Bakersfield,Kern County,Ca
+92571,59896,Perris,Riverside County,Ca
+92071,59795,Santee,San Diego County,Ca
+93458,59789,Santa Maria,Santa Barbara County,Ca
+92020,59775,El Cajon,San Diego County,Ca
+95111,59761,San Jose,Santa Clara County,Ca
+92707,59712,Santa Ana,Orange County,Ca
+93312,59616,Bakersfield,Kern County,Ca
+94122,59453,San Francisco,San Francisco County,Ca
+95670,59449,Rancho Cordova,Sacramento County,Ca
+90019,59410,Los Angeles,Los Angeles County,Ca
+91770,59410,Rosemead,Los Angeles County,Ca
+92618,59386,Irvine,Orange County,Ca
+90042,59151,Los Angeles,Los Angeles County,Ca
+94591,59026,Vallejo,Solano County,Ca
+94087,58913,Sunnyvale,Santa Clara County,Ca
+91732,58888,El Monte,Los Angeles County,Ca
+90004,58833,Los Angeles,Los Angeles County,Ca
+95112,58775,San Jose,Santa Clara County,Ca
+90745,58735,Carson,Los Angeles County,Ca
+93030,58511,Oxnard,Ventura County,Ca
+92570,58275,Perris,Riverside County,Ca
+92530,58249,Lake Elsinore,Riverside County,Ca
+92057,58022,Oceanside,San Diego County,Ca
+91950,57844,National City,San Diego County,Ca
+90001,57652,Los Angeles,Los Angeles County,Ca
+92504,57636,Riverside,Riverside County,Ca
+92324,57593,Colton,San Bernardino County,Ca
+95023,57367,Hollister,San Benito County,Ca
+92130,57363,San Diego,San Diego County,Ca
+93063,57075,Simi Valley,Ventura County,Ca
+92708,56754,Fountain Valley,Orange County,Ca
+90006,56628,Los Angeles,Los Angeles County,Ca
+94109,56333,San Francisco,San Francisco County,Ca
+91913,56102,Chula Vista,San Diego County,Ca
+92646,56033,Huntington Beach,Orange County,Ca
+91786,56025,Upland,San Bernardino County,Ca
+92027,55750,Escondido,San Diego County,Ca
+93436,55591,Lompoc,Santa Barbara County,Ca
+91745,55489,Hacienda Heights,Los Angeles County,Ca
+91405,55451,Van Nuys,Los Angeles County,Ca
+95350,55368,Modesto,Stanislaus County,Ca
+95648,55350,Lincoln,Placer County,Ca
+91764,55311,Ontario,San Bernardino County,Ca
+92399,55236,Yucaipa,San Bernardino County,Ca
+93308,55150,Bakersfield,Kern County,Ca
+90034,55061,Los Angeles,Los Angeles County,Ca
+95376,55038,Tracy,San Joaquin County,Ca
+92780,54945,Tustin,Orange County,Ca
+92557,54936,Moreno Valley,Riverside County,Ca
+92584,54663,Menifee,Riverside County,Ca
+92117,54499,San Diego,San Diego County,Ca
+93551,54478,Palmdale,Los Angeles County,Ca
+91304,54369,Canoga Park,Los Angeles County,Ca
+90744,54277,Wilmington,Los Angeles County,Ca
+92056,54190,Oceanside,San Diego County,Ca
+90066,54142,Los Angeles,Los Angeles County,Ca
+93277,54127,Visalia,Tulare County,Ca
+91344,53862,Granada Hills,Los Angeles County,Ca
+92840,53826,Garden Grove,Orange County,Ca
+90813,53647,Long Beach,Los Angeles County,Ca
+94539,53464,Fremont,Alameda County,Ca
+93117,53345,Goleta,Santa Barbara County,Ca
+93215,53334,Delano,Kern County,Ca
+95125,53333,San Jose,Santa Clara County,Ca
+91801,53320,Alhambra,Los Angeles County,Ca
+90723,53286,Paramount,Los Angeles County,Ca
+93003,53283,Ventura,Ventura County,Ca
+91406,53276,Van Nuys,Los Angeles County,Ca
+95757,53232,Elk Grove,Sacramento County,Ca
+92870,53150,Placentia,Orange County,Ca
+92656,53143,Aliso Viejo,Orange County,Ca
+90002,53108,Los Angeles,Los Angeles County,Ca
+92026,53053,Escondido,San Diego County,Ca
+92078,53019,San Marcos,San Diego County,Ca
+95207,52877,Stockton,San Joaquin County,Ca
+92833,52799,Fullerton,Orange County,Ca
+92505,52696,Riverside,Riverside County,Ca
+95122,52555,San Jose,Santa Clara County,Ca
+92129,52495,San Diego,San Diego County,Ca
+90047,52200,Los Angeles,Los Angeles County,Ca
+90221,52119,Compton,Los Angeles County,Ca
+94601,52102,Oakland,Alameda County,Ca
+95616,52090,Davis,Yolo County,Ca
+90063,52008,Los Angeles,Los Angeles County,Ca
+92234,51964,Cathedral City,Riverside County,Ca
+95037,51867,Morgan Hill,Santa Clara County,Ca
+95124,51803,San Jose,Santa Clara County,Ca
+93638,51724,Madera,Madera County,Ca
+91605,51654,North Hollywood,Los Angeles County,Ca
+92544,51567,Hemet,Riverside County,Ca
+92028,51135,Fallbrook,San Diego County,Ca
+92127,51107,San Diego,San Diego County,Ca
+92113,50983,San Diego,San Diego County,Ca
+93619,50848,Clovis,Fresno County,Ca
+91767,50715,Pomona,Los Angeles County,Ca
+93311,50535,Bakersfield,Kern County,Ca
+92886,50437,Yorba Linda,Orange County,Ca
+95116,50436,San Jose,Santa Clara County,Ca
+90024,50392,Los Angeles,Los Angeles County,Ca
+92025,50270,Escondido,San Diego County,Ca
+95240,50245,Lodi,San Joaquin County,Ca
+92024,50222,Encinitas,San Diego County,Ca
+92626,50198,Costa Mesa,Orange County,Ca
+90630,50170,Cypress,Orange County,Ca
+93304,50158,Bakersfield,Kern County,Ca
+92084,49971,Vista,San Diego County,Ca
+90018,49898,Los Angeles,Los Angeles County,Ca
+94550,49463,Livermore,Alameda County,Ca
+92701,49462,Santa Ana,Orange County,Ca
+91306,49460,Winnetka,Los Angeles County,Ca
+90703,49334,Cerritos,Los Angeles County,Ca
+92128,49273,San Diego,San Diego County,Ca
+94086,49217,Sunnyvale,Santa Clara County,Ca
+92243,49193,El Centro,Imperial County,Ca
+95336,49145,Manteca,San Joaquin County,Ca
+92879,49111,Corona,Riverside County,Ca
+90220,49101,Compton,Los Angeles County,Ca
+94553,49062,Martinez,Contra Costa County,Ca
+92064,48783,Poway,San Diego County,Ca
+95008,48746,Campbell,Santa Clara County,Ca
+93720,48597,Fresno,Fresno County,Ca
+92395,48479,Victorville,San Bernardino County,Ca
+92410,48398,San Bernardino,San Bernardino County,Ca
+92058,48272,Oceanside,San Diego County,Ca
+90046,48170,Los Angeles,Los Angeles County,Ca
+95351,48134,Modesto,Stanislaus County,Ca
+92691,48073,Mission Viejo,Orange County,Ca
+94303,47989,Palo Alto,Santa Clara County,Ca
+95307,47978,Ceres,Stanislaus County,Ca
+94577,47937,San Leandro,Alameda County,Ca
+92111,47710,San Diego,San Diego County,Ca
+93635,47683,Los Banos,Merced County,Ca
+90247,47682,Gardena,Los Angeles County,Ca
+93010,47656,Camarillo,Ventura County,Ca
+90033,47655,Los Angeles,Los Angeles County,Ca
+92843,47549,Garden Grove,Orange County,Ca
+94560,47470,Newark,Alameda County,Ca
+94582,47338,San Ramon,Contra Costa County,Ca
+90016,47309,Los Angeles,Los Angeles County,Ca
+95136,47294,San Jose,Santa Clara County,Ca
+95843,47195,Antelope,Sacramento County,Ca
+90057,47142,Los Angeles,Los Angeles County,Ca
+90620,47042,Buena Park,Orange County,Ca
+93036,46959,Oxnard,Ventura County,Ca
+92705,46854,Santa Ana,Orange County,Ca
+91387,46812,Canyon Country,Los Angeles County,Ca
+95209,46756,Stockton,San Joaquin County,Ca
+92069,46648,San Marcos,San Diego County,Ca
+93611,46620,Clovis,Fresno County,Ca
+92104,46613,San Diego,San Diego County,Ca
+95060,46527,Santa Cruz,Santa Cruz County,Ca
+95822,46413,Sacramento,Sacramento County,Ca
+92009,46334,Carlsbad,San Diego County,Ca
+94014,46331,Daly City,San Mateo County,Ca
+94928,46231,Rohnert Park,Sonoma County,Ca
+95610,46219,Citrus Heights,Sacramento County,Ca
+90638,46170,La Mirada,Los Angeles County,Ca
+92101,46025,San Diego,San Diego County,Ca
+92122,45988,San Diego,San Diego County,Ca
+92692,45977,Mission Viejo,Orange County,Ca
+92019,45937,El Cajon,San Diego County,Ca
+92040,45906,Lakeside,San Diego County,Ca
+95762,45842,El Dorado Hills,El Dorado County,Ca
+90027,45764,Los Angeles,Los Angeles County,Ca
+94546,45761,Castro Valley,Alameda County,Ca
+93446,45720,Paso Robles,San Luis Obispo County,Ca
+95148,45688,San Jose,Santa Clara County,Ca
+92648,45667,Huntington Beach,Orange County,Ca
+91352,45601,Sun Valley,Los Angeles County,Ca
+90241,45341,Downey,Los Angeles County,Ca
+91765,45303,Diamond Bar,Los Angeles County,Ca
+93702,45248,Fresno,Fresno County,Ca
+92545,45219,Hemet,Riverside County,Ca
+95678,45210,Roseville,Placer County,Ca
+94566,45145,Pleasanton,Alameda County,Ca
+92374,44976,Redlands,San Bernardino County,Ca
+92555,44923,Moreno Valley,Riverside County,Ca
+90065,44897,Los Angeles,Los Angeles County,Ca
+90032,44881,Los Angeles,Los Angeles County,Ca
+91367,44862,Woodland Hills,Los Angeles County,Ca
+91790,44855,West Covina,Los Angeles County,Ca
+93726,44790,Fresno,Fresno County,Ca
+93292,44759,Visalia,Tulare County,Ca
+95403,44677,Santa Rosa,Sonoma County,Ca
+90023,44558,Los Angeles,Los Angeles County,Ca
+94561,44546,Oakley,Contra Costa County,Ca
+94605,44477,Oakland,Alameda County,Ca
+90043,44461,Los Angeles,Los Angeles County,Ca
+95831,44450,Sacramento,Sacramento County,Ca
+92688,44444,Rancho Santa Margarita,Orange County,Ca
+90025,44429,Los Angeles,Los Angeles County,Ca
+94804,44387,Richmond,Contra Costa County,Ca
+92506,44344,Riverside,Riverside County,Ca
+92802,44316,Anaheim,Orange County,Ca
+90503,44280,Torrance,Los Angeles County,Ca
+95628,44256,Fair Oaks,Sacramento County,Ca
+92867,44216,Orange,Orange County,Ca
+95380,44204,Turlock,Stanislaus County,Ca
+95337,44192,Manteca,San Joaquin County,Ca
+93455,44186,Santa Maria,Santa Barbara County,Ca
+91320,44138,Newbury Park,Ventura County,Ca
+94531,44115,Antioch,Contra Costa County,Ca
+92109,44009,San Diego,San Diego County,Ca
+95991,43978,Yuba City,Sutter County,Ca
+96003,43945,Redding,Shasta County,Ca
+94116,43903,San Francisco,San Francisco County,Ca
+94403,43858,San Mateo,San Mateo County,Ca
+91748,43851,Rowland Heights,Los Angeles County,Ca
+91606,43552,North Hollywood,Los Angeles County,Ca
+94010,43458,Burlingame,San Mateo County,Ca
+93552,43371,Palmdale,Los Angeles County,Ca
+94066,43369,San Bruno,San Mateo County,Ca
+94121,43304,San Francisco,San Francisco County,Ca
+92308,43191,Apple Valley,San Bernardino County,Ca
+95765,43059,Rocklin,Placer County,Ca
+91350,42970,Santa Clarita,Los Angeles County,Ca
+91733,42953,South El Monte,Los Angeles County,Ca
+90815,42759,Long Beach,Los Angeles County,Ca
+95210,42654,Stockton,San Joaquin County,Ca
+90278,42536,Redondo Beach,Los Angeles County,Ca
+90501,42536,Torrance,Los Angeles County,Ca
+93534,42515,Lancaster,Los Angeles County,Ca
+92236,42506,Coachella,Riverside County,Ca
+91360,42444,Thousand Oaks,Ventura County,Ca
+95926,42362,Chico,Butte County,Ca
+94578,42350,San Leandro,Alameda County,Ca
+95407,42138,Santa Rosa,Sonoma County,Ca
+95621,42089,Citrus Heights,Sacramento County,Ca
+90275,41941,Rancho Palos Verdes,Los Angeles County,Ca
+91016,41822,Monrovia,Los Angeles County,Ca
+90242,41685,Downey,Los Angeles County,Ca
+95301,41660,Atwater,Merced County,Ca
+92821,41604,Brea,Orange County,Ca
+93706,41523,Fresno,Fresno County,Ca
+90605,41427,Whittier,Los Angeles County,Ca
+94534,41395,Fairfield,Solano County,Ca
+91789,41377,Walnut,Los Angeles County,Ca
+93637,41324,Madera,Madera County,Ca
+91739,41319,Rancho Cucamonga,San Bernardino County,Ca
+95838,41311,Sacramento,Sacramento County,Ca
+90045,41123,Los Angeles,Los Angeles County,Ca
+93454,41110,Santa Maria,Santa Barbara County,Ca
+94521,41092,Concord,Contra Costa County,Ca
+92591,41047,Temecula,Riverside County,Ca
+94025,41017,Menlo Park,San Mateo County,Ca
+90007,41004,Los Angeles,Los Angeles County,Ca
+91942,40995,La Mesa,San Diego County,Ca
+95132,40981,San Jose,Santa Clara County,Ca
+95835,40957,Sacramento,Sacramento County,Ca
+92806,40945,Anaheim,Orange County,Ca
+94901,40927,San Rafael,Marin County,Ca
+95833,40908,Sacramento,Sacramento County,Ca
+92240,40755,Desert Hot Springs,Riverside County,Ca
+94134,40738,San Francisco,San Francisco County,Ca
+90806,40688,Long Beach,Los Angeles County,Ca
+92307,40534,Apple Valley,San Bernardino County,Ca
+95826,40205,Sacramento,Sacramento County,Ca
+91311,40196,Chatsworth,Los Angeles County,Ca
+95688,40147,Vacaville,Solano County,Ca
+95205,40128,Stockton,San Joaquin County,Ca
+94118,40108,San Francisco,San Francisco County,Ca
+92102,40051,San Diego,San Diego County,Ca
+94551,40025,Livermore,Alameda County,Ca
+90802,40012,Long Beach,Los Angeles County,Ca
+93711,39963,Fresno,Fresno County,Ca
+95691,39961,West Sacramento,Yolo County,Ca
+92394,39939,Victorville,San Bernardino County,Ca
+95050,39905,Santa Clara,Santa Clara County,Ca
+95695,39892,Woodland,Yolo County,Ca
+95129,39797,San Jose,Santa Clara County,Ca
+90604,39795,Whittier,Los Angeles County,Ca
+94611,39780,Oakland,Alameda County,Ca
+94583,39758,San Ramon,Contra Costa County,Ca
+90808,39698,Long Beach,Los Angeles County,Ca
+94117,39496,San Francisco,San Francisco County,Ca
+90059,39471,Los Angeles,Los Angeles County,Ca
+91701,39323,Rancho Cucamonga,San Bernardino County,Ca
+91401,39179,Van Nuys,Los Angeles County,Ca
+93705,38777,Fresno,Fresno County,Ca
+95382,38727,Turlock,Stanislaus County,Ca
+92231,38674,Calexico,Imperial County,Ca
+92301,38565,Adelanto,San Bernardino County,Ca
+94606,38459,Oakland,Alameda County,Ca
+90012,38430,Los Angeles,Los Angeles County,Ca
+95928,38412,Chico,Butte County,Ca
+92543,38403,Hemet,Riverside County,Ca
+90020,38400,Los Angeles,Los Angeles County,Ca
+95973,38323,Chico,Butte County,Ca
+94954,38201,Petaluma,Sonoma County,Ca
+94044,38061,Pacifica,San Mateo County,Ca
+92672,38020,San Clemente,San Diego County,Ca
+95120,38003,San Jose,Santa Clara County,Ca
+94590,37991,Vallejo,Solano County,Ca
+93021,37980,Moorpark,Ventura County,Ca
+92253,37898,La Quinta,Riverside County,Ca
+92083,37864,Vista,San Diego County,Ca
+90005,37754,Los Angeles,Los Angeles County,Ca
+90036,37713,Los Angeles,Los Angeles County,Ca
+91763,37698,Montclair,San Bernardino County,Ca
+94555,37671,Fremont,Alameda County,Ca
+92037,37665,La Jolla,San Diego County,Ca
+91711,37542,Claremont,Los Angeles County,Ca
+94061,37539,Redwood City,San Mateo County,Ca
+90031,37457,Los Angeles,Los Angeles County,Ca
+93245,37439,Lemoore,Kings County,Ca
+95404,37437,Santa Rosa,Sonoma County,Ca
+95821,37436,Sacramento,Sacramento County,Ca
+94124,37347,San Francisco,San Francisco County,Ca
+90301,37341,Inglewood,Los Angeles County,Ca
+91776,37340,San Gabriel,Los Angeles County,Ca
+95825,37310,Sacramento,Sacramento County,Ca
+90804,37299,Long Beach,Los Angeles County,Ca
+92337,37292,Fontana,San Bernardino County,Ca
+95993,37222,Yuba City,Sutter County,Ca
+92883,37211,Corona,Riverside County,Ca
+91752,37173,Mira Loma,Riverside County,Ca
+93612,37138,Clovis,Fresno County,Ca
+92054,37050,Oceanside,San Diego County,Ca
+94603,37042,Oakland,Alameda County,Ca
+95126,36996,San Jose,Santa Clara County,Ca
+95401,36905,Santa Rosa,Sonoma County,Ca
+92065,36836,Ramona,San Diego County,Ca
+95340,36833,Merced,Merced County,Ca
+93305,36783,Bakersfield,Kern County,Ca
+91362,36770,Thousand Oaks,Ventura County,Ca
+94520,36699,Concord,Contra Costa County,Ca
+95121,36657,San Jose,Santa Clara County,Ca
+92706,36548,Santa Ana,Orange County,Ca
+91326,36503,Porter Ranch,Los Angeles County,Ca
+92508,36500,Riverside,Riverside County,Ca
+92831,36470,Fullerton,Orange County,Ca
+92869,36429,Orange,Orange County,Ca
+91001,36420,Altadena,Los Angeles County,Ca
+94404,36397,San Mateo,San Mateo County,Ca
+95476,36386,Sonoma,Sonoma County,Ca
+95062,36369,Santa Cruz,Santa Cruz County,Ca
+90277,36339,Redondo Beach,Los Angeles County,Ca
+92551,36326,Moreno Valley,Riverside County,Ca
+90810,36306,Long Beach,Los Angeles County,Ca
+90505,36214,Torrance,Los Angeles County,Ca
+90621,36151,Buena Park,Orange County,Ca
+93012,36145,Camarillo,Ventura County,Ca
+95901,36119,Marysville,Yuba County,Ca
+92807,36117,Anaheim,Orange County,Ca
+95667,36084,Placerville,El Dorado County,Ca
+93657,36053,Sanger,Fresno County,Ca
+95820,36024,Sacramento,Sacramento County,Ca
+92660,35926,Newport Beach,Orange County,Ca
+91104,35918,Pasadena,Los Angeles County,Ca
+95348,35853,Merced,Merced County,Ca
+90049,35819,Los Angeles,Los Angeles County,Ca
+91205,35755,Glendale,Los Angeles County,Ca
+92596,35726,Winchester,Riverside County,Ca
+94040,35667,Mountain View,Santa Clara County,Ca
+91601,35615,North Hollywood,Los Angeles County,Ca
+91915,35608,Chula Vista,San Diego County,Ca
+91780,35556,Temple City,Los Angeles County,Ca
+91325,35537,Northridge,Los Angeles County,Ca
+95660,35458,North Highlands,Sacramento County,Ca
+91768,35443,Pomona,Los Angeles County,Ca
+94401,35392,San Mateo,San Mateo County,Ca
+92131,35227,San Diego,San Diego County,Ca
+92649,35206,Huntington Beach,Orange County,Ca
+94588,35162,Pleasanton,Alameda County,Ca
+90266,35123,Manhattan Beach,Los Angeles County,Ca
+95361,35107,Oakdale,Stanislaus County,Ca
+92675,35099,San Juan Capistrano,Orange County,Ca
+92694,35074,Ladera Ranch,Orange County,Ca
+95377,35001,Tracy,San Joaquin County,Ca
+94523,34964,Pleasant Hill,Contra Costa County,Ca
+92139,34930,San Diego,San Diego County,Ca
+94621,34911,Oakland,Alameda County,Ca
+95834,34892,Sacramento,Sacramento County,Ca
+92612,34868,Irvine,Orange County,Ca
+91340,34822,San Fernando,Los Angeles County,Ca
+94063,34807,Redwood City,San Mateo County,Ca
+95842,34775,Sacramento,Sacramento County,Ca
+96001,34721,Redding,Shasta County,Ca
+92595,34698,Wildomar,Riverside County,Ca
+90029,34649,Los Angeles,Los Angeles County,Ca
+96002,34634,Redding,Shasta County,Ca
+95341,34541,Merced,Merced County,Ca
+91722,34470,Covina,Los Angeles County,Ca
+93060,34337,Santa Paula,Ventura County,Ca
+91321,34305,Newhall,Los Angeles County,Ca
+92103,34296,San Diego,San Diego County,Ca
+92311,34226,Barstow,San Bernardino County,Ca
+92841,34188,Garden Grove,Orange County,Ca
+95482,34183,Ukiah,Mendocino County,Ca
+93314,34156,Bakersfield,Kern County,Ca
+94608,34083,Emeryville,Alameda County,Ca
+94102,34077,San Francisco,San Francisco County,Ca
+91773,34066,San Dimas,Los Angeles County,Ca
+92373,33946,Redlands,San Bernardino County,Ca
+91754,33937,Monterey Park,Los Angeles County,Ca
+91791,33902,West Covina,Los Angeles County,Ca
+94114,33858,San Francisco,San Francisco County,Ca
+92583,33781,San Jacinto,Riverside County,Ca
+93422,33781,Atascadero,San Luis Obispo County,Ca
+94545,33700,Hayward,Alameda County,Ca
+95128,33653,San Jose,Santa Clara County,Ca
+91941,33602,La Mesa,San Diego County,Ca
+92203,33558,Indio,Riverside County,Ca
+90062,33528,Los Angeles,Los Angeles County,Ca
+94952,33519,Petaluma,Marin County,Ca
+93555,33490,Ridgecrest,Kern County,Ca
+91750,33436,La Verne,Los Angeles County,Ca
+94526,33396,Danville,Contra Costa County,Ca
+91007,33367,Arcadia,Los Angeles County,Ca
+94115,33299,San Francisco,San Francisco County,Ca
+90260,33282,Lawndale,Los Angeles County,Ca
+90807,33153,Long Beach,Los Angeles County,Ca
+90008,33076,Los Angeles,Los Angeles County,Ca
+91354,33039,Valencia,Los Angeles County,Ca
+95356,33033,Modesto,Stanislaus County,Ca
+90222,33021,Compton,Los Angeles County,Ca
+90504,32965,Torrance,Los Angeles County,Ca
+92123,32951,San Diego,San Diego County,Ca
+95118,32827,San Jose,Santa Clara County,Ca
+95661,32827,Roseville,Placer County,Ca
+92220,32797,Banning,Riverside County,Ca
+94801,32759,Richmond,Contra Costa County,Ca
+93710,32730,Fresno,Fresno County,Ca
+91351,32677,Canyon Country,Los Angeles County,Ca
+94043,32670,Mountain View,Santa Clara County,Ca
+95961,32663,Olivehurst,Yuba County,Ca
+93955,32610,Seaside,Monterey County,Ca
+93703,32603,Fresno,Fresno County,Ca
+91107,32581,Pasadena,Los Angeles County,Ca
+95662,32436,Orangevale,Sacramento County,Ca
+94610,32404,Oakland,Alameda County,Ca
+94103,32400,San Francisco,San Francisco County,Ca
+91214,32344,La Crescenta,Los Angeles County,Ca
+93618,32334,Dinuba,Tulare County,Ca
+91206,32294,Glendale,Los Angeles County,Ca
+94941,32190,Mill Valley,Marin County,Ca
+91505,32156,Burbank,Los Angeles County,Ca
+93420,32126,Arroyo Grande,San Luis Obispo County,Ca
+91604,32073,Studio City,Los Angeles County,Ca
+90230,32005,Culver City,Los Angeles County,Ca
+91006,31986,Arcadia,Los Angeles County,Ca
+92116,31836,San Diego,San Diego County,Ca
+91423,31787,Sherman Oaks,Los Angeles County,Ca
+93001,31751,Ventura,Ventura County,Ca
+90606,31717,Whittier,Los Angeles County,Ca
+95070,31688,Saratoga,Santa Clara County,Ca
+90803,31659,Long Beach,Los Angeles County,Ca
+94903,31582,San Rafael,Marin County,Ca
+90712,31552,Lakewood,Los Angeles County,Ca
+92405,31550,San Bernardino,San Bernardino County,Ca
+93940,31513,Monterey,Monterey County,Ca
+92881,31401,Corona,Riverside County,Ca
+95131,31335,San Jose,Santa Clara County,Ca
+94070,31312,San Carlos,San Mateo County,Ca
+95829,31297,Sacramento,Sacramento County,Ca
+95358,31268,Modesto,Stanislaus County,Ca
+95632,31217,Galt,Sacramento County,Ca
+91792,31208,West Covina,Los Angeles County,Ca
+96080,31190,Red Bluff,Tehama County,Ca
+93004,31151,Ventura,Ventura County,Ca
+92124,31121,San Diego,San Diego County,Ca
+94602,31104,Oakland,Alameda County,Ca
+90680,31102,Stanton,Orange County,Ca
+93561,31060,Tehachapi,Kern County,Ca
+92260,31039,Palm Desert,Riverside County,Ca
+90028,30982,Los Angeles,Los Angeles County,Ca
+92679,30971,Trabuco Canyon,Orange County,Ca
+95134,30916,San Jose,Santa Clara County,Ca
+92110,30773,San Diego,San Diego County,Ca
+91607,30734,Valley Village,Los Angeles County,Ca
+90601,30667,Whittier,Los Angeles County,Ca
+92316,30656,Bloomington,San Bernardino County,Ca
+92673,30633,San Clemente,Orange County,Ca
+91303,30611,Canoga Park,Los Angeles County,Ca
+91356,30599,Tarzana,Los Angeles County,Ca
+95824,30556,Sacramento,Sacramento County,Ca
+93654,30476,Reedley,Fresno County,Ca
+95204,30406,Stockton,San Joaquin County,Ca
+94107,30340,San Francisco,San Francisco County,Ca
+91355,30289,Valencia,Los Angeles County,Ca
+92120,30241,San Diego,San Diego County,Ca
+93662,30191,Selma,Fresno County,Ca
+95219,30165,Stockton,San Joaquin County,Ca
+95966,30108,Oroville,Butte County,Ca
+95330,30051,Lathrop,San Joaquin County,Ca
+94589,29959,Vallejo,Solano County,Ca
+92653,29923,Laguna Hills,Orange County,Ca
+93101,29870,Santa Barbara,Santa Barbara County,Ca
+92782,29838,Tustin,Orange County,Ca
+95363,29784,Patterson,Stanislaus County,Ca
+95682,29750,Shingle Springs,El Dorado County,Ca
+91324,29744,Northridge,Los Angeles County,Ca
+92614,29544,Irvine,Orange County,Ca
+93704,29502,Fresno,Fresno County,Ca
+93901,29498,Salinas,Monterey County,Ca
+92081,29475,Vista,San Diego County,Ca
+96150,29457,South Lake Tahoe,El Dorado County,Ca
+92107,29435,San Diego,San Diego County,Ca
+91746,29429,La Puente,Los Angeles County,Ca
+94585,29401,Suisun City,Solano County,Ca
+94580,29377,San Lorenzo,Alameda County,Ca
+90302,29307,Inglewood,Los Angeles County,Ca
+92604,29080,Irvine,Orange County,Ca
+91803,29006,Alhambra,Los Angeles County,Ca
+93401,28773,San Luis Obispo,San Luis Obispo County,Ca
+91364,28765,Woodland Hills,Los Angeles County,Ca
+90017,28754,Los Angeles,Los Angeles County,Ca
+95133,28749,San Jose,Santa Clara County,Ca
+94131,28705,San Francisco,San Francisco County,Ca
+95117,28663,San Jose,Santa Clara County,Ca
+90061,28646,Los Angeles,Los Angeles County,Ca
+92173,28609,San Ysidro,San Diego County,Ca
+95677,28591,Rocklin,Placer County,Ca
+91724,28575,Covina,Los Angeles County,Ca
+95370,28548,Sonora,Tuolumne County,Ca
+91316,28497,Encino,Los Angeles County,Ca
+94549,28456,Lafayette,Contra Costa County,Ca
+95472,28443,Sebastopol,Sonoma County,Ca
+90713,28439,Lakewood,Los Angeles County,Ca
+95603,28366,Auburn,Placer County,Ca
+90041,28321,Los Angeles,Los Angeles County,Ca
+94518,28287,Concord,Contra Costa County,Ca
+90039,28244,Los Angeles,Los Angeles County,Ca
+94559,28224,Napa,Napa County,Ca
+91731,28201,El Monte,Los Angeles County,Ca
+95492,28096,Windsor,Sonoma County,Ca
+90038,27979,Los Angeles,Los Angeles County,Ca
+94002,27893,Belmont,San Mateo County,Ca
+95212,27848,Stockton,San Joaquin County,Ca
+94306,27785,Palo Alto,Santa Clara County,Ca
+95032,27678,Los Gatos,Santa Clara County,Ca
+91384,27652,Castaic,Los Angeles County,Ca
+90746,27643,Carson,Los Angeles County,Ca
+94132,27641,San Francisco,San Francisco County,Ca
+91945,27541,Lemon Grove,San Diego County,Ca
+92227,27540,Brawley,Imperial County,Ca
+90710,27517,Harbor City,Los Angeles County,Ca
+91504,27479,Burbank,Los Angeles County,Ca
+92532,27454,Lake Elsinore,Riverside County,Ca
+95242,27433,Lodi,San Joaquin County,Ca
+95945,27388,Grass Valley,Nevada County,Ca
+92008,27373,Carlsbad,San Diego County,Ca
+92277,27370,Twentynine Palms,San Bernardino County,Ca
+93280,27356,Wasco,Kern County,Ca
+92868,27280,Orange,Orange County,Ca
+94510,27223,Benicia,Solano County,Ca
+93933,27197,Marina,Monterey County,Ca
+94803,27171,El Sobrante,Contra Costa County,Ca
+91103,27167,Pasadena,Los Angeles County,Ca
+91740,27131,Glendora,Los Angeles County,Ca
+91042,27119,Tujunga,Los Angeles County,Ca
+92585,27083,Menifee,Riverside County,Ca
+92251,27050,Imperial,Imperial County,Ca
+94607,27019,Oakland,Alameda County,Ca
+94619,27018,Oakland,Alameda County,Ca
+90405,26981,Santa Monica,Los Angeles County,Ca
+94506,26947,Danville,Contra Costa County,Ca
+95618,26946,Davis,Yolo County,Ca
+92411,26915,San Bernardino,San Bernardino County,Ca
+91010,26825,Duarte,Los Angeles County,Ca
+92211,26741,Palm Desert,Riverside County,Ca
+92835,26687,Fullerton,Orange County,Ca
+92602,26663,Irvine,Orange County,Ca
+90035,26595,Los Angeles,Los Angeles County,Ca
+91030,26583,South Pasadena,Los Angeles County,Ca
+93725,26568,Fresno,Fresno County,Ca
+94062,26531,Redwood City,San Mateo County,Ca
+95815,26523,Sacramento,Sacramento County,Ca
+94530,26483,El Cerrito,Contra Costa County,Ca
+93105,26482,Santa Barbara,Santa Barbara County,Ca
+91755,26418,Monterey Park,Los Angeles County,Ca
+95776,26352,Woodland,Yolo County,Ca
+94598,26346,Walnut Creek,Contra Costa County,Ca
+91302,26318,Calabasas,Los Angeles County,Ca
+93035,26286,Oxnard,Ventura County,Ca
+95409,26158,Santa Rosa,Sonoma County,Ca
+91932,26157,Imperial Beach,San Diego County,Ca
+94402,26150,San Mateo,San Mateo County,Ca
+92629,26144,Dana Point,Orange County,Ca
+91784,26116,Upland,San Bernardino County,Ca
+91741,26052,Glendora,Los Angeles County,Ca
+94547,26041,Hercules,Contra Costa County,Ca
+92832,26040,Fullerton,Orange County,Ca
+93960,26037,Soledad,Monterey County,Ca
+90240,26026,Downey,Los Angeles County,Ca
+90064,25956,Los Angeles,Los Angeles County,Ca
+90602,25949,Whittier,Los Angeles County,Ca
+90249,25929,Gardena,Los Angeles County,Ca
+91403,25887,Sherman Oaks,Los Angeles County,Ca
+92262,25856,Palm Springs,Riverside County,Ca
+92284,25741,Yucca Valley,San Bernardino County,Ca
+95864,25728,Sacramento,Sacramento County,Ca
+90304,25725,Inglewood,Los Angeles County,Ca
+94704,25711,Berkeley,Alameda County,Ca
+90291,25656,Venice,Los Angeles County,Ca
+95215,25647,Stockton,San Joaquin County,Ca
+90015,25554,Los Angeles,Los Angeles County,Ca
+94133,25460,San Francisco,San Francisco County,Ca
+91307,25368,West Hills,Los Angeles County,Ca
+92860,25367,Norco,Riverside County,Ca
+91301,25244,Agoura Hills,Los Angeles County,Ca
+94947,25183,Novato,Marin County,Ca
+94609,25175,Oakland,Alameda County,Ca
+95367,25162,Riverbank,Stanislaus County,Ca
+93907,25124,Salinas,Monterey County,Ca
+95354,25100,Modesto,Stanislaus County,Ca
+93405,24991,San Luis Obispo,San Luis Obispo County,Ca
+95003,24977,Aptos,Santa Cruz County,Ca
+90270,24950,Maywood,Los Angeles County,Ca
+90274,24942,Palos Verdes Peninsula,Los Angeles County,Ca
+96007,24849,Anderson,Shasta County,Ca
+94123,24721,San Francisco,San Francisco County,Ca
+90740,24604,Seal Beach,Orange County,Ca
+90292,24481,Marina Del Rey,Los Angeles County,Ca
+92011,24472,Carlsbad,San Diego County,Ca
+95054,24444,Santa Clara,Santa Clara County,Ca
+92606,24431,Irvine,Orange County,Ca
+92119,24419,San Diego,San Diego County,Ca
+92108,24201,San Diego,San Diego County,Ca
+91775,24169,San Gabriel,Los Angeles County,Ca
+90403,24092,Santa Monica,Los Angeles County,Ca
+95503,24072,Eureka,Humboldt County,Ca
+94024,24041,Los Altos,Santa Clara County,Ca
+92651,23981,Laguna Beach,Orange County,Ca
+90404,23975,Santa Monica,Los Angeles County,Ca
+91106,23813,Pasadena,Los Angeles County,Ca
+93610,23795,Chowchilla,Madera County,Ca
+94596,23795,Walnut Creek,Contra Costa County,Ca
+95405,23748,Santa Rosa,Sonoma County,Ca
+95501,23706,Eureka,Humboldt County,Ca
+95391,23696,Tracy,Alameda County,Ca
+91411,23689,Van Nuys,Los Angeles County,Ca
+90720,23673,Los Alamitos,Orange County,Ca
+94597,23654,Walnut Creek,Contra Costa County,Ca
+94089,23447,Sunnyvale,Santa Clara County,Ca
+93212,23391,Corcoran,Kings County,Ca
+90303,23370,Inglewood,Los Angeles County,Ca
+91737,23108,Rancho Cucamonga,San Bernardino County,Ca
+93041,23108,Port Hueneme,Ventura County,Ca
+95818,23062,Sacramento,Sacramento County,Ca
+92354,23054,Loma Linda,San Bernardino County,Ca
+95531,23029,Crescent City,Del Norte County,Ca
+94085,22996,Sunnyvale,Santa Clara County,Ca
+93263,22952,Shafter,Kern County,Ca
+91202,22831,Glendale,Los Angeles County,Ca
+94030,22825,Millbrae,San Mateo County,Ca
+95746,22743,Granite Bay,Placer County,Ca
+92844,22622,Garden Grove,Orange County,Ca
+91201,22163,Glendale,Los Angeles County,Ca
+92501,22136,Riverside,Riverside County,Ca
+93444,22079,Nipomo,San Luis Obispo County,Ca
+90732,22078,San Pedro,Los Angeles County,Ca
+95620,22004,Dixon,Solano County,Ca
+92582,21961,San Jacinto,Riverside County,Ca
+92663,21886,Newport Beach,Orange County,Ca
+94503,21791,American Canyon,Napa County,Ca
+90717,21788,Lomita,Los Angeles County,Ca
+95521,21712,Arcata,Humboldt County,Ca
+95841,21542,Sacramento,Sacramento County,Ca
+96130,21460,Susanville,Lassen County,Ca
+95135,21402,San Jose,Santa Clara County,Ca
+93560,21300,Rosamond,Kern County,Ca
+90272,21298,Pacific Palisades,Los Angeles County,Ca
+93023,21279,Ojai,Ventura County,Ca
+92371,21265,Phelan,San Bernardino County,Ca
+95949,21232,Grass Valley,Nevada County,Ca
+92225,21189,Blythe,Riverside County,Ca
+94127,21184,San Francisco,San Francisco County,Ca
+92865,21140,Orange,Orange County,Ca
+95827,21084,Sacramento,Sacramento County,Ca
+92808,21080,Anaheim,Orange County,Ca
+90068,21064,Los Angeles,Los Angeles County,Ca
+90715,20949,Lakewood,Los Angeles County,Ca
+92377,20935,Rialto,San Bernardino County,Ca
+91040,20911,Sunland,Los Angeles County,Ca
+90603,20883,Whittier,Los Angeles County,Ca
+91381,20864,Stevenson Ranch,Los Angeles County,Ca
+94706,20860,Albany,Alameda County,Ca
+95965,20835,Oroville,Butte County,Ca
+93203,20781,Arvin,Kern County,Ca
+90814,20723,Long Beach,Los Angeles County,Ca
+92082,20678,Valley Center,San Diego County,Ca
+92106,20483,San Diego,San Diego County,Ca
+92344,20448,Hesperia,San Bernardino County,Ca
+92617,20432,Irvine,Orange County,Ca
+90048,20411,Los Angeles,Los Angeles County,Ca
+94703,20404,Berkeley,Alameda County,Ca
+91011,20389,La Canada Flintridge,Los Angeles County,Ca
+92887,20353,Yorba Linda,Orange County,Ca
+95110,20314,San Jose,Santa Clara County,Ca
+93630,20272,Kerman,Fresno County,Ca
+94579,20272,San Leandro,Alameda County,Ca
+92264,20229,Palm Springs,Riverside County,Ca
+94519,20162,Concord,Contra Costa County,Ca
+92586,20152,Menifee,Riverside County,Ca
+94022,20052,Los Altos,Santa Clara County,Ca
+90069,20045,West Hollywood,Los Angeles County,Ca
+92029,19986,Escondido,San Diego County,Ca
+93927,19983,Greenfield,Monterey County,Ca
+91602,19980,North Hollywood,Los Angeles County,Ca
+95819,19806,Sacramento,Sacramento County,Ca
+91101,19737,Pasadena,Los Angeles County,Ca
+93103,19653,Santa Barbara,Santa Barbara County,Ca
+91506,19559,Burbank,Los Angeles County,Ca
+90254,19551,Hermosa Beach,Los Angeles County,Ca
+95138,19420,San Jose,Santa Clara County,Ca
+94563,19416,Orinda,Contra Costa County,Ca
+92603,19329,Irvine,Orange County,Ca
+90210,19180,Beverly Hills,Los Angeles County,Ca
+96161,19146,Truckee,Nevada County,Ca
+91501,18951,Burbank,Los Angeles County,Ca
+94564,18946,Pinole,Contra Costa County,Ca
+93210,18937,Coalinga,Fresno County,Ca
+91390,18930,Santa Clarita,Los Angeles County,Ca
+92587,18926,Menifee,Riverside County,Ca
+95519,18781,Mckinleyville,Humboldt County,Ca
+91361,18753,Westlake Village,Ventura County,Ca
+93015,18716,Fillmore,Ventura County,Ca
+91901,18669,Alpine,San Diego County,Ca
+95602,18610,Auburn,Placer County,Ca
+94949,18545,Novato,Marin County,Ca
+95366,18500,Ripon,San Joaquin County,Ca
+91345,18481,Mission Hills,Los Angeles County,Ca
+91204,18445,Glendale,Los Angeles County,Ca
+90502,18430,Torrance,Los Angeles County,Ca
+95816,18334,Sacramento,Sacramento County,Ca
+95959,18244,Nevada City,Nevada County,Ca
+93111,18165,Santa Barbara,Santa Barbara County,Ca
+91723,17964,Covina,Los Angeles County,Ca
+93728,17892,Fresno,Fresno County,Ca
+93247,17827,Lindsay,Tulare County,Ca
+94612,17742,Oakland,Alameda County,Ca
+92118,17602,Coronado,San Diego County,Ca
+90670,17556,Santa Fe Springs,Los Angeles County,Ca
+94702,17473,Berkeley,Alameda County,Ca
+92637,17452,Laguna Woods,Orange County,Ca
+91914,17373,Chula Vista,San Diego County,Ca
+94595,17341,Walnut Creek,Contra Costa County,Ca
+94945,17309,Novato,Marin County,Ca
+95334,17302,Livingston,Merced County,Ca
+94618,17285,Oakland,Alameda County,Ca
+94305,17279,Stanford,Santa Clara County,Ca
+94301,17259,Palo Alto,Santa Clara County,Ca
+92270,17257,Rancho Mirage,Riverside County,Ca
+93268,17124,Taft,Kern County,Ca
+91902,17121,Bonita,San Diego County,Ca
+90245,17081,El Segundo,Los Angeles County,Ca
+95422,16998,Clearlake,Lake County,Ca
+93930,16807,King City,Monterey County,Ca
+95448,16745,Healdsburg,Sonoma County,Ca
+91203,16679,Glendale,Los Angeles County,Ca
+95673,16665,Rio Linda,Sacramento County,Ca
+90265,16652,Malibu,Los Angeles County,Ca
+93631,16588,Kingsburg,Tulare County,Ca
+92010,16566,Carlsbad,San Diego County,Ca
+95963,16485,Orland,Glenn County,Ca
+93013,16459,Carpinteria,Santa Barbara County,Ca
+93110,16403,Santa Barbara,Santa Barbara County,Ca
+90232,16352,Culver City,Los Angeles County,Ca
+90701,16237,Artesia,Los Angeles County,Ca
+95203,16237,Stockton,San Joaquin County,Ca
+91436,16190,Encino,Los Angeles County,Ca
+94542,16188,Hayward,Alameda County,Ca
+94960,16028,San Anselmo,Marin County,Ca
+93241,15978,Lamont,Kern County,Ca
+94556,15959,Moraga,Contra Costa County,Ca
+92274,15917,Thermal,Riverside County,Ca
+91708,15908,Chino,San Bernardino County,Ca
+96021,15746,Corning,Tehama County,Ca
+93402,15572,Los Osos,San Luis Obispo County,Ca
+92845,15530,Garden Grove,Orange County,Ca
+94505,15445,Discovery Bay,Contra Costa County,Ca
+90623,15419,La Palma,Orange County,Ca
+91208,15377,Glendale,Los Angeles County,Ca
+93648,15370,Parlier,Fresno County,Ca
+94019,15275,Half Moon Bay,San Mateo County,Ca
+95304,15235,Tracy,San Joaquin County,Ca
+95066,15233,Scotts Valley,Santa Cruz County,Ca
+94041,15222,Mountain View,Santa Clara County,Ca
+93250,15126,McFarland,Kern County,Ca
+93950,15098,Pacific Grove,Monterey County,Ca
+93505,14952,California City,Kern County,Ca
+94552,14948,Castro Valley,Alameda County,Ca
+95742,14883,Rancho Cordova,Sacramento County,Ca
+92866,14873,Orange,Orange County,Ca
+95437,14865,Fort Bragg,Mendocino County,Ca
+95368,14849,Salida,Stanislaus County,Ca
+94805,14790,Richmond,Contra Costa County,Ca
+96022,14751,Cottonwood,Tehama County,Ca
+93514,14692,Bishop,Mono County,Ca
+90305,14679,Inglewood,Los Angeles County,Ca
+95252,14622,Valley Springs,Calaveras County,Ca
+90013,14587,Los Angeles,Los Angeles County,Ca
+95817,14513,Sacramento,Sacramento County,Ca
+94705,14508,Berkeley,Alameda County,Ca
+94507,14503,Alamo,Contra Costa County,Ca
+93221,14423,Exeter,Tulare County,Ca
+95540,14415,Fortuna,Humboldt County,Ca
+95357,14403,Modesto,Stanislaus County,Ca
+95490,14360,Willits,Mendocino County,Ca
+95605,14291,West Sacramento,Yolo County,Ca
+94502,14225,Alameda,Alameda County,Ca
+93640,14162,Mendota,Fresno County,Ca
+95650,14098,Loomis,Placer County,Ca
+90716,13941,Hawaiian Gardens,Los Angeles County,Ca
+95360,13781,Newman,Stanislaus County,Ca
+94105,13722,San Francisco,San Francisco County,Ca
+93301,13672,Bakersfield,Kern County,Ca
+91377,13627,Oak Park,Ventura County,Ca
+95388,13518,Winton,Merced County,Ca
+93636,13447,Madera,Madera County,Ca
+93204,13423,Avenal,Kings County,Ca
+95130,13376,San Jose,Santa Clara County,Ca
+95030,13373,Los Gatos,Santa Clara County,Ca
+95315,13317,Delhi,Merced County,Ca
+93723,13174,Fresno,Fresno County,Ca
+94904,13132,Greenbrae,Marin County,Ca
+95832,13116,Sacramento,Sacramento County,Ca
+92610,13107,Foothill Ranch,Orange County,Ca
+92313,13104,Grand Terrace,San Bernardino County,Ca
+90293,13039,Playa Del Rey,Los Angeles County,Ca
+93908,12983,Salinas,Monterey County,Ca
+95451,12957,Kelseyville,Lake County,Ca
+94920,12906,Belvedere Tiburon,Marin County,Ca
+93433,12755,Grover Beach,San Luis Obispo County,Ca
+93543,12745,Littlerock,Los Angeles County,Ca
+91105,12692,Pasadena,Los Angeles County,Ca
+93923,12630,Carmel,Monterey County,Ca
+94707,12596,Berkeley,Alameda County,Ca
+91108,12559,San Marino,Los Angeles County,Ca
+92625,12546,Corona Del Mar,Orange County,Ca
+92014,12532,Del Mar,San Diego County,Ca
+95640,12518,Ione,Amador County,Ca
+92408,12478,San Bernardino,San Bernardino County,Ca
+93730,12461,Fresno,Fresno County,Ca
+95320,12385,Escalon,San Joaquin County,Ca
+94517,12349,Clayton,Contra Costa County,Ca
+91502,12312,Burbank,Los Angeles County,Ca
+95814,12248,Sacramento,Sacramento County,Ca
+94709,12200,Berkeley,Alameda County,Ca
+92075,12072,Solana Beach,San Diego County,Ca
+94108,12070,San Francisco,San Francisco County,Ca
+94965,12044,Sausalito,Marin County,Ca
+92007,11939,Cardiff By The Sea,San Diego County,Ca
+90094,11891,Playa Vista,Los Angeles County,Ca
+90040,11839,Los Angeles,Los Angeles County,Ca
+93647,11828,Orosi,Tulare County,Ca
+90402,11816,Santa Monica,Los Angeles County,Ca
+94708,11810,Berkeley,Contra Costa County,Ca
+90755,11764,Signal Hill,Los Angeles County,Ca
+93614,11760,Coarsegold,Madera County,Ca
+93109,11626,Santa Barbara,Santa Barbara County,Ca
+94065,11588,Redwood City,San Mateo County,Ca
+95948,11456,Gridley,Butte County,Ca
+90248,11453,Gardena,Los Angeles County,Ca
+95073,11408,Soquel,Santa Cruz County,Ca
+93442,11399,Morro Bay,San Luis Obispo County,Ca
+95425,11331,Cloverdale,Sonoma County,Ca
+95453,11254,Lakeport,Lake County,Ca
+93108,11209,Santa Barbara,Santa Barbara County,Ca
+95953,11201,Live Oak,Sutter County,Ca
+91024,11151,Sierra Madre,Los Angeles County,Ca
+91207,11091,Glendale,Los Angeles County,Ca
+91978,11006,Spring Valley,San Diego County,Ca
+90212,10881,Beverly Hills,Los Angeles County,Ca
+92567,10721,Nuevo,Riverside County,Ca
+95326,10672,Hughson,Stanislaus County,Ca
+92314,10658,Big Bear City,San Bernardino County,Ca
+92055,10618,Camp Pendleton,San Diego County,Ca
+93701,10602,Fresno,Fresno County,Ca
+95012,10528,Castroville,Monterey County,Ca
+94571,10514,Rio Vista,Solano County,Ca
+96019,10466,Shasta Lake,Shasta County,Ca
+95119,10461,San Jose,Santa Clara County,Ca
+93223,10424,Farmersville,Tulare County,Ca
+93286,10418,Woodlake,Tulare County,Ca
+95386,10387,Waterford,Stanislaus County,Ca
+92320,10366,Calimesa,Riverside County,Ca
+95713,10280,Colfax,Placer County,Ca
+94158,10205,San Francisco,San Francisco County,Ca
+95954,10163,Magalia,Butte County,Ca
+93646,10157,Orange Cove,Tulare County,Ca
+94925,10155,Corte Madera,Marin County,Ca
+96097,10154,Yreka,Siskiyou County,Ca
+95338,10102,Mariposa,Mariposa County,Ca
+93219,9871,Earlimart,Tulare County,Ca
+95033,9853,Los Gatos,Santa Cruz County,Ca
+95064,9832,Santa Cruz,Santa Cruz County,Ca
+93465,9829,Templeton,San Luis Obispo County,Ca
+92359,9758,Mentone,San Bernardino County,Ca
+92136,9630,San Diego,San Diego County,Ca
+95694,9600,Winters,Yolo County,Ca
+93622,9419,Firebaugh,Fresno County,Ca
+95322,9392,Gustine,Merced County,Ca
+93620,9363,Dos Palos,Merced County,Ca
+92254,9362,Mecca,Riverside County,Ca
+91935,9320,Jamul,San Diego County,Ca
+94572,9309,Rodeo,Contra Costa County,Ca
+90014,9273,Los Angeles,Los Angeles County,Ca
+95010,9243,Capitola,Santa Cruz County,Ca
+90211,9208,Beverly Hills,Los Angeles County,Ca
+92067,9186,Rancho Santa Fe,San Diego County,Ca
+92657,9169,Newport Coast,Orange County,Ca
+95946,9049,Penn Valley,Nevada County,Ca
+92310,8967,Fort Irwin,San Bernardino County,Ca
+94931,8945,Cotati,Sonoma County,Ca
+93926,8941,Gonzales,Monterey County,Ca
+95006,8802,Boulder Creek,Santa Cruz County,Ca
+95327,8788,Jamestown,Tuolumne County,Ca
+95324,8763,Hilmar,Merced County,Ca
+94930,8748,Fairfax,Marin County,Ca
+95988,8748,Willows,Glenn County,Ca
+93546,8689,Mammoth Lakes,Mono County,Ca
+94710,8471,Berkeley,Alameda County,Ca
+95811,8456,Sacramento,Sacramento County,Ca
+92325,8449,Crestline,San Bernardino County,Ca
+93625,8396,Fowler,Fresno County,Ca
+93434,8272,Guadalupe,Santa Barbara County,Ca
+95220,8244,Acampo,San Joaquin County,Ca
+92276,8242,Thousand Palms,Riverside County,Ca
+92241,8232,Desert Hot Springs,Riverside County,Ca
+90056,8225,Los Angeles,Los Angeles County,Ca
+95065,8125,Santa Cruz,Santa Cruz County,Ca
+93463,8059,Solvang,Santa Barbara County,Ca
+93449,8050,Pismo Beach,San Luis Obispo County,Ca
+92655,8040,Midway City,Orange County,Ca
+92250,8033,Holtville,Imperial County,Ca
+93721,8004,Fresno,Fresno County,Ca
+95726,7974,Pollock Pines,El Dorado County,Ca
+92252,7911,Joshua Tree,San Bernardino County,Ca
+92249,7910,Heber,Imperial County,Ca
+90077,7868,Los Angeles,Los Angeles County,Ca
+94574,7827,Saint Helena,Napa County,Ca
+95932,7789,Colusa,Colusa County,Ca
+95693,7624,Wilton,Sacramento County,Ca
+95969,7564,Paradise,Butte County,Ca
+95005,7552,Ben Lomond,Santa Cruz County,Ca
+91020,7509,Montrose,Los Angeles County,Ca
+94939,7488,Larkspur,Marin County,Ca
+90401,7480,Santa Monica,Los Angeles County,Ca
+93510,7397,Acton,Los Angeles County,Ca
+93591,7340,Palmdale,Los Angeles County,Ca
+96067,7321,Mount Shasta,Siskiyou County,Ca
+95139,7232,San Jose,Santa Clara County,Ca
+93644,7169,Oakhurst,Madera County,Ca
+95316,7154,Denair,Stanislaus County,Ca
+95642,7152,Jackson,Amador County,Ca
+94027,7142,Atherton,San Mateo County,Ca
+92548,7110,Homeland,Riverside County,Ca
+92356,7048,Lucerne Valley,San Bernardino County,Ca
+94515,7024,Calistoga,Sonoma County,Ca
+96094,6985,Weed,Siskiyou County,Ca
+93445,6912,Oceano,San Luis Obispo County,Ca
+94028,6888,Portola Valley,San Mateo County,Ca
+92624,6881,Capistrano Beach,Orange County,Ca
+92233,6871,Calipatria,Imperial County,Ca
+93737,6624,Fresno,Fresno County,Ca
+93234,6571,Huron,Fresno County,Ca
+93924,6563,Carmel Valley,Monterey County,Ca
+93410,6523,San Luis Obispo,San Luis Obispo County,Ca
+95987,6504,Williams,Colusa County,Ca
+93022,6422,Oak View,Ventura County,Ca
+95619,6414,Diamond Springs,El Dorado County,Ca
+95683,6330,Sloughhouse,Sacramento County,Ca
+92342,6317,Helendale,San Bernardino County,Ca
+93460,6280,Santa Ynez,Santa Barbara County,Ca
+93656,6249,Riverdale,Fresno County,Ca
+95631,6244,Foresthill,Placer County,Ca
+92352,6147,Lake Arrowhead,San Bernardino County,Ca
+95709,6103,Camino,El Dorado County,Ca
+95470,6068,Redwood Valley,Mendocino County,Ca
+93428,6056,Cambria,San Luis Obispo County,Ca
+95018,6055,Felton,Santa Cruz County,Ca
+95436,6008,Forestville,Sonoma County,Ca
+95202,6000,Stockton,San Joaquin County,Ca
+93427,5980,Buellton,Santa Barbara County,Ca
+95658,5974,Newcastle,Placer County,Ca
+95971,5931,Quincy,Plumas County,Ca
+95019,5891,Freedom,Santa Cruz County,Ca
+95666,5885,Pioneer,Amador County,Ca
+95626,5845,Elverta,Sacramento County,Ca
+92861,5814,Villa Park,Orange County,Ca
+93267,5811,Strathmore,Tulare County,Ca
+95046,5801,San Martin,Santa Clara County,Ca
+95467,5795,Hidden Valley Lake,Lake County,Ca
+93615,5767,Cutler,Tulare County,Ca
+95672,5744,Rescue,El Dorado County,Ca
+93270,5711,Terra Bella,Tulare County,Ca
+96073,5648,Palo Cedro,Shasta County,Ca
+93256,5575,Pixley,Tulare County,Ca
+92823,5495,Brea,Orange County,Ca
+93240,5470,Lake Isabella,Kern County,Ca
+92363,5447,Needles,San Bernardino County,Ca
+93501,5404,Mojave,Kern County,Ca
+93106,5369,Santa Barbara,Santa Barbara County,Ca
+94720,5322,Berkeley,Alameda County,Ca
+90290,5300,Topanga,Los Angeles County,Ca
+95222,5236,Angels Camp,Calaveras County,Ca
+92315,5228,Big Bear Lake,San Bernardino County,Ca
+92590,5212,Temecula,Riverside County,Ca
+92372,5208,Pinon Hills,San Bernardino County,Ca
+92397,5059,Wrightwood,Los Angeles County,Ca
+93225,5018,Frazier Park,Ventura County,Ca
+95655,4954,Mather,Sacramento County,Ca
+95249,4908,San Andreas,Calaveras County,Ca
+95912,4908,Arbuckle,Colusa County,Ca
+93675,4891,Squaw Valley,Fresno County,Ca
+93609,4889,Caruthers,Fresno County,Ca
+95692,4887,Wheatland,Yuba County,Ca
+92382,4884,Running Springs,San Bernardino County,Ca
+95231,4865,French Camp,San Joaquin County,Ca
+92210,4832,Indian Wells,Riverside County,Ca
+95722,4829,Meadow Vista,Placer County,Ca
+96101,4824,Alturas,Modoc County,Ca
+94005,4756,Brisbane,San Mateo County,Ca
+93451,4751,San Miguel,Monterey County,Ca
+95446,4709,Guerneville,Sonoma County,Ca
+95685,4703,Sutter Creek,Amador County,Ca
+96088,4703,Shingletown,Shasta County,Ca
+95665,4693,Pine Grove,Amador County,Ca
+96064,4690,Montague,Siskiyou County,Ca
+95228,4648,Copperopolis,Calaveras County,Ca
+93272,4548,Tipton,Tulare County,Ca
+95236,4518,Linden,San Joaquin County,Ca
+94304,4489,Palo Alto,Santa Clara County,Ca
+95623,4488,El Dorado,El Dorado County,Ca
+95614,4479,Cool,El Dorado County,Ca
+95671,4478,Represa,Sacramento County,Ca
+94111,4468,San Francisco,San Francisco County,Ca
+95938,4451,Durham,Butte County,Ca
+92003,4404,Bonsall,San Diego County,Ca
+93235,4360,Ivanhoe,Tulare County,Ca
+93202,4308,Armona,Kings County,Ca
+91906,4281,Campo,San Diego County,Ca
+96013,4212,Burney,Shasta County,Ca
+90010,4185,Los Angeles,Los Angeles County,Ca
+90089,4164,Los Angeles,Los Angeles County,Ca
+92121,4150,San Diego,San Diego County,Ca
+95627,4137,Esparto,Yolo County,Ca
+96122,4121,Portola,Plumas County,Ca
+96035,4097,Gerber,Tehama County,Ca
+95917,4091,Biggs,Butte County,Ca
+95321,4068,Groveland,Tuolumne County,Ca
+95045,4063,San Juan Bautista,San Benito County,Ca
+95247,4022,Murphys,Calaveras County,Ca
+92369,3999,Patton,San Bernardino County,Ca
+95237,3992,Lockeford,San Joaquin County,Ca
+96093,3959,Weaverville,Trinity County,Ca
+94129,3952,San Francisco,San Francisco County,Ca
+93660,3921,San Joaquin,Fresno County,Ca
+95461,3909,Middletown,Lake County,Ca
+95004,3902,Aromas,Monterey County,Ca
+95258,3885,Woodbridge,San Joaquin County,Ca
+95365,3882,Planada,Merced County,Ca
+95634,3878,Georgetown,El Dorado County,Ca
+94535,3873,Travis Afb,Solano County,Ca
+93523,3867,Edwards,Kern County,Ca
+95328,3856,Keyes,Stanislaus County,Ca
+95379,3828,Tuolumne,Tuolumne County,Ca
+90704,3822,Avalon,Los Angeles County,Ca
+92539,3760,Anza,Riverside County,Ca
+96055,3760,Los Molinos,Tehama County,Ca
+93437,3681,Lompoc,Santa Barbara County,Ca
+93581,3611,Tehachapi,Kern County,Ca
+94525,3599,Crockett,Contra Costa County,Ca
+92278,3574,Twentynine Palms,San Bernardino County,Ca
+94951,3574,Penngrove,Sonoma County,Ca
+92549,3535,Idyllwild,Riverside County,Ca
+96041,3511,Hayfork,Trinity County,Ca
+94599,3428,Yountville,Napa County,Ca
+94018,3423,El Granada,San Mateo County,Ca
+93953,3416,Pebble Beach,Monterey County,Ca
+95383,3415,Twain Harte,Tuolumne County,Ca
+94508,3406,Angwin,Napa County,Ca
+95562,3396,Rio Dell,Humboldt County,Ca
+92256,3387,Morongo Valley,San Bernardino County,Ca
+95423,3322,Clearlake Oaks,Lake County,Ca
+95053,3317,Santa Clara,Santa Clara County,Ca
+95633,3305,Garden Valley,El Dorado County,Ca
+95458,3303,Lucerne,Lake County,Ca
+92661,3300,Newport Beach,Orange County,Ca
+95536,3258,Ferndale,Humboldt County,Ca
+95457,3252,Lower Lake,Lake County,Ca
+92004,3200,Borrego Springs,San Diego County,Ca
+93265,3194,Springville,Tulare County,Ca
+94038,3165,Moss Beach,San Mateo County,Ca
+95333,3157,Le Grand,Merced County,Ca
+94130,3136,San Francisco,San Francisco County,Ca
+96143,3130,Kings Beach,Placer County,Ca
+93643,3115,North Fork,Madera County,Ca
+95982,3084,Sutter,Sutter County,Ca
+96145,3081,Tahoe City,Placer County,Ca
+92036,3075,Julian,San Diego County,Ca
+90058,3049,Los Angeles,Los Angeles County,Ca
+93602,3038,Auberry,Fresno County,Ca
+92179,3031,San Diego,San Diego County,Ca
+96137,2949,Westwood,Lassen County,Ca
+93430,2941,Cayucos,San Luis Obispo County,Ca
+96114,2927,Janesville,Lassen County,Ca
+95684,2913,Somerset,El Dorado County,Ca
+95485,2909,Upper Lake,Lake County,Ca
+95542,2862,Garberville,Humboldt County,Ca
+93650,2844,Fresno,Fresno County,Ca
+95245,2813,Mokelumne Hill,Calaveras County,Ca
+92145,2810,San Diego,San Diego County,Ca
+92140,2807,San Diego,San Diego County,Ca
+93066,2805,Somis,Ventura County,Ca
+90021,2781,Los Angeles,Los Angeles County,Ca
+95428,2775,Covelo,Mendocino County,Ca
+93532,2768,Lake Hughes,Los Angeles County,Ca
+92285,2726,Landers,San Bernardino County,Ca
+91330,2699,Northridge,Los Angeles County,Ca
+93242,2683,Laton,Fresno County,Ca
+95546,2666,Hoopa,Humboldt County,Ca
+95663,2659,Penryn,Placer County,Ca
+90067,2653,Los Angeles,Los Angeles County,Ca
+94037,2649,Montara,San Mateo County,Ca
+96032,2606,Fort Jones,Siskiyou County,Ca
+93944,2605,Monterey,Monterey County,Ca
+96020,2593,Chester,Plumas County,Ca
+95442,2592,Glen Ellen,Sonoma County,Ca
+93409,2591,San Luis Obispo,San Luis Obispo County,Ca
+93516,2583,Boron,Kern County,Ca
+93626,2583,Friant,Madera County,Ca
+92536,2569,Aguanga,Riverside County,Ca
+96052,2538,Lewiston,Trinity County,Ca
+91962,2528,Pine Valley,San Diego County,Ca
+95570,2523,Trinidad,Humboldt County,Ca
+95951,2522,Hamilton City,Glenn County,Ca
+95669,2514,Plymouth,Amador County,Ca
+95223,2470,Arnold,Alpine County,Ca
+93921,2469,Carmel By The Sea,Monterey County,Ca
+95464,2466,Nice,Lake County,Ca
+93285,2465,Wofford Heights,Kern County,Ca
+93283,2416,Weldon,Kern County,Ca
+93271,2398,Three Rivers,Tulare County,Ca
+95329,2394,La Grange,Tuolumne County,Ca
+92365,2393,Newberry Springs,San Bernardino County,Ca
+95460,2349,Mendocino,Mendocino County,Ca
+92662,2346,Newport Beach,Orange County,Ca
+93205,2320,Bodfish,Kern County,Ca
+96025,2247,Dunsmuir,Siskiyou County,Ca
+95638,2246,Herald,Sacramento County,Ca
+92281,2238,Westmorland,Imperial County,Ca
+96134,2236,Tulelake,Modoc County,Ca
+95311,2182,Coulterville,Mariposa County,Ca
+92391,2177,Twin Peaks,San Bernardino County,Ca
+96113,2164,Herlong,Lassen County,Ca
+93616,2163,Del Rey,Fresno County,Ca
+95113,2161,San Jose,Santa Clara County,Ca
+93453,2096,Santa Margarita,San Luis Obispo County,Ca
+94957,2081,Ross,Marin County,Ca
+92386,2064,Sugarloaf,San Bernardino County,Ca
+92401,2060,San Bernardino,San Bernardino County,Ca
+94964,2054,San Quentin,Marin County,Ca
+92093,2044,La Jolla,San Diego County,Ca
+92230,2039,Cabazon,Riverside County,Ca
+93222,2036,Pine Mountain Club,Kern County,Ca
+94020,2030,La Honda,San Mateo County,Ca
+94514,2023,Byron,Contra Costa County,Ca
+95445,2012,Gualala,Mendocino County,Ca
+95567,2001,Smith River,Del Norte County,Ca
+93249,1996,Lost Hills,Kern County,Ca
+94511,1993,Bethel Island,Contra Costa County,Ca
+92283,1967,Winterhaven,Imperial County,Ca
+95389,1963,Yosemite National Park,Mariposa County,Ca
+95703,1955,Applegate,Placer County,Ca
+92676,1952,Silverado,Orange County,Ca
+95002,1920,Alviso,Santa Clara County,Ca
+93667,1909,Tollhouse,Fresno County,Ca
+96027,1907,Etna,Siskiyou County,Ca
+93261,1889,Richgrove,Tulare County,Ca
+95903,1868,Beale Afb,Yuba County,Ca
+93562,1867,Trona,San Bernardino County,Ca
+95310,1849,Columbia,Tuolumne County,Ca
+93040,1838,Piru,Ventura County,Ca
+90639,1833,La Mirada,Los Angeles County,Ca
+91916,1833,Descanso,San Diego County,Ca
+95468,1822,Point Arena,Mendocino County,Ca
+95977,1822,Smartsville,Yuba County,Ca
+95441,1819,Geyserville,Sonoma County,Ca
+95918,1807,Browns Valley,Yuba County,Ca
+96028,1805,Fall River Mills,Shasta County,Ca
+90263,1803,Malibu,Los Angeles County,Ca
+93920,1790,Big Sur,Monterey County,Ca
+95551,1789,Loleta,Humboldt County,Ca
+95255,1787,West Point,Calaveras County,Ca
+95942,1786,Forest Ranch,Butte County,Ca
+95449,1785,Hopland,Mendocino County,Ca
+93527,1734,Inyokern,Tulare County,Ca
+93266,1720,Stratford,Kings County,Ca
+95454,1714,Laytonville,Mendocino County,Ca
+93206,1709,Buttonwillow,Kern County,Ca
+95524,1700,Bayside,Humboldt County,Ca
+93252,1680,Maricopa,Ventura County,Ca
+95421,1679,Cazadero,Sonoma County,Ca
+92061,1677,Pauma Valley,San Diego County,Ca
+95211,1676,Stockton,San Joaquin County,Ca
+95319,1651,Empire,Stanislaus County,Ca
+93513,1649,Big Pine,Inyo County,Ca
+95372,1639,Soulsbyville,Tuolumne County,Ca
+92273,1631,Seeley,Imperial County,Ca
+95975,1628,Rough And Ready,Nevada County,Ca
+92561,1622,Mountain Center,Riverside County,Ca
+95690,1621,Walnut Grove,Sacramento County,Ca
+95374,1581,Stevinson,Merced County,Ca
+96118,1581,Loyalton,Sierra County,Ca
+93651,1580,Prather,Fresno County,Ca
+93426,1566,Bradley,Monterey County,Ca
+95528,1555,Carlotta,Humboldt County,Ca
+95246,1548,Mountain Ranch,Calaveras County,Ca
+95641,1517,Isleton,Sacramento County,Ca
+95323,1516,Hickman,Stanislaus County,Ca
+95689,1498,Volcano,Amador County,Ca
+95612,1462,Clarksburg,Yolo County,Ca
+92059,1456,Pala,San Diego County,Ca
+94973,1438,Woodacre,Marin County,Ca
+93432,1434,Creston,San Luis Obispo County,Ca
+93544,1427,Llano,Los Angeles County,Ca
+95039,1427,Moss Landing,Monterey County,Ca
+95573,1417,Willow Creek,Humboldt County,Ca
+95955,1413,Maxwell,Colusa County,Ca
+91905,1411,Boulevard,San Diego County,Ca
+92086,1409,Warner Springs,San Diego County,Ca
+95947,1407,Greenville,Plumas County,Ca
+92275,1406,Salton City,Imperial County,Ca
+93239,1404,Kettleman City,Kings County,Ca
+92398,1394,Yermo,San Bernardino County,Ca
+94923,1390,Bodega Bay,Sonoma County,Ca
+96069,1390,Oak Run,Shasta County,Ca
+95415,1383,Boonville,Mendocino County,Ca
+93653,1378,Raymond,Madera County,Ca
+95636,1374,Grizzly Flats,El Dorado County,Ca
+95681,1370,Sheridan,Placer County,Ca
+93461,1369,Shandon,San Luis Obispo County,Ca
+95968,1366,Palermo,Butte County,Ca
+92282,1361,Whitewater,Riverside County,Ca
+95525,1358,Blue Lake,Humboldt County,Ca
+93925,1352,Chualar,Monterey County,Ca
+93545,1342,Lone Pine,Inyo County,Ca
+94924,1342,Bolinas,Marin County,Ca
+96103,1340,Blairsden Graeagle,Plumas County,Ca
+95560,1337,Redway,Humboldt County,Ca
+95469,1323,Potter Valley,Mendocino County,Ca
+96056,1318,Mcarthur,Lassen County,Ca
+94060,1312,Pescadero,San Mateo County,Ca
+96109,1297,Doyle,Lassen County,Ca
+92091,1288,Rancho Santa Fe,San Diego County,Ca
+94933,1284,Forest Knolls,Marin County,Ca
+96048,1283,Junction City,Trinity County,Ca
+91934,1251,Jacumba,San Diego County,Ca
+95465,1251,Occidental,Sonoma County,Ca
+95452,1240,Kenwood,Sonoma County,Ca
+92242,1230,Earp,San Bernardino County,Ca
+95497,1224,The Sea Ranch,Sonoma County,Ca
+96140,1219,Carnelian Bay,Placer County,Ca
+95387,1215,Westley,Stanislaus County,Ca
+96044,1215,Hornbrook,Siskiyou County,Ca
+93201,1209,Alpaugh,Tulare County,Ca
+96120,1209,Markleeville,Alpine County,Ca
+93601,1206,Ahwahnee,Madera County,Ca
+95686,1194,Thornton,San Joaquin County,Ca
+95652,1193,Mcclellan,Sacramento County,Ca
+94956,1189,Point Reyes Station,Marin County,Ca
+96023,1189,Dorris,Siskiyou County,Ca
+92257,1186,Niland,Imperial County,Ca
+95919,1183,Brownsville,Yuba County,Ca
+95227,1180,Clements,San Joaquin County,Ca
+95426,1178,Cobb,Lake County,Ca
+93424,1174,Avila Beach,San Luis Obispo County,Ca
+93740,1174,Fresno,Fresno County,Ca
+95645,1162,Knights Landing,Yolo County,Ca
+96057,1158,Mccloud,Siskiyou County,Ca
+95589,1153,Whitethorn,Humboldt County,Ca
+95615,1147,Courtland,Sacramento County,Ca
+96146,1147,Olympic Valley,Placer County,Ca
+95937,1145,Dunnigan,Yolo County,Ca
+95549,1140,Kneeland,Humboldt County,Ca
+93553,1136,Pearblossom,Los Angeles County,Ca
+95962,1136,Oregon House,Yuba County,Ca
+95664,1133,Pilot Hill,El Dorado County,Ca
+92518,1132,March Air Reserve Base,Riverside County,Ca
+93246,1129,Lemoore,Kings County,Ca
+93606,1129,Biola,Fresno County,Ca
+96008,1123,Bella Vista,Shasta County,Ca
+95547,1121,Hydesville,Humboldt County,Ca
+96024,1105,Douglas City,Trinity County,Ca
+92135,1095,San Diego,San Diego County,Ca
+95462,1091,Monte Rio,Sonoma County,Ca
+93258,1086,Porterville,Tulare County,Ca
+93441,1085,Los Olivos,Santa Barbara County,Ca
+96051,1067,Lakehead,Shasta County,Ca
+92339,1064,Forest Falls,San Bernardino County,Ca
+94575,1048,Moraga,Contra Costa County,Ca
+95701,1045,Alta,Placer County,Ca
+95346,1041,Mi Wuk Village,Tuolumne County,Ca
+93928,1040,Jolon,Monterey County,Ca
+95553,1037,Miranda,Humboldt County,Ca
+95548,1034,Klamath,Del Norte County,Ca
+93668,1025,Tranquillity,Fresno County,Ca
+92328,1022,Death Valley,Inyo County,Ca
+95538,1022,Fort Dick,Del Norte County,Ca
+94592,1020,Vallejo,Solano County,Ca
+95225,1019,Burson,Calaveras County,Ca
+92368,1018,Oro Grande,San Bernardino County,Ca
+93608,1018,Cantua Creek,Fresno County,Ca
+90073,1014,Los Angeles,Los Angeles County,Ca
+96062,1002,Millville,Shasta County,Ca
+93067,999,Summerland,Santa Barbara County,Ca
+91125,996,Pasadena,Los Angeles County,Ca
+93243,977,Lebec,Kern County,Ca
+95916,965,Berry Creek,Butte County,Ca
+94586,964,Sunol,Alameda County,Ca
+96104,962,Cedarville,Modoc County,Ca
+95317,948,El Nido,Merced County,Ca
+95635,948,Greenwood,El Dorado County,Ca
+96142,946,Tahoma,El Dorado County,Ca
+94937,938,Inverness,Marin County,Ca
+95563,911,Salyer,Trinity County,Ca
+95017,907,Davenport,Santa Cruz County,Ca
+93645,897,O'Neals,Madera County,Ca
+93518,894,Caliente,Kern County,Ca
+93624,892,Five Points,Fresno County,Ca
+95303,891,Ballico,Merced County,Ca
+95466,880,Philo,Mendocino County,Ca
+93255,872,Onyx,Kern County,Ca
+93254,869,New Cuyama,Santa Barbara County,Ca
+96107,868,Coleville,Mono County,Ca
+93238,866,Kernville,Tulare County,Ca
+95313,860,Crows Landing,Stanislaus County,Ca
+95565,860,Scotia,Humboldt County,Ca
+95674,859,Rio Oso,Sutter County,Ca
+93526,855,Independence,Inyo County,Ca
+95459,853,Manchester,Mendocino County,Ca
+91917,851,Dulzura,San Diego County,Ca
+93440,846,Los Alamos,Santa Barbara County,Ca
+96047,843,Igo,Shasta County,Ca
+93450,830,San Ardo,Monterey County,Ca
+96087,824,Shasta,Shasta County,Ca
+93541,817,Lee Vining,Mono County,Ca
+96058,809,Macdoel,Siskiyou County,Ca
+95041,803,Mount Hermon,Santa Cruz County,Ca
+95410,797,Albion,Mendocino County,Ca
+93218,796,Ducor,Tulare County,Ca
+95659,790,Nicolaus,Sutter County,Ca
+92321,784,Cedar Glen,San Bernardino County,Ca
+95306,784,Catheys Valley,Mariposa County,Ca
+96096,784,Whitmore,Shasta County,Ca
+95439,782,Fulton,Sonoma County,Ca
+95471,780,Rio Nido,Sonoma County,Ca
+95369,778,Snelling,Merced County,Ca
+95456,775,Little River,Mendocino County,Ca
+92358,762,Lytle Creek,San Bernardino County,Ca
+92070,761,Santa Ysabel,San Diego County,Ca
+95957,752,Meridian,Sutter County,Ca
+91931,749,Guatay,San Diego County,Ca
+95629,747,Fiddletown,Amador County,Ca
+92322,746,Cedarpines Park,San Bernardino County,Ca
+95830,746,Sacramento,Sacramento County,Ca
+91008,744,Duarte,Los Angeles County,Ca
+95651,738,Lotus,El Dorado County,Ca
+94528,726,Diablo,Contra Costa County,Ca
+96039,726,Happy Camp,Siskiyou County,Ca
+93043,722,Port Hueneme Cbc Base,Ventura County,Ca
+94567,719,Pope Valley,Napa County,Ca
+93666,704,Sultana,Tulare County,Ca
+95527,701,Burnt Ranch,Trinity County,Ca
+96091,693,Trinity Center,Trinity County,Ca
+95556,692,Orleans,Humboldt County,Ca
+94946,673,Nicasio,Marin County,Ca
+95943,670,Glenn,Glenn County,Ca
+95043,669,Paicines,San Benito County,Ca
+96084,664,Round Mountain,Shasta County,Ca
+96129,640,Beckwourth,Plumas County,Ca
+95526,638,Bridgeville,Humboldt County,Ca
+92327,633,Daggett,San Bernardino County,Ca
+92678,630,Trabuco Canyon,Orange County,Ca
+96148,630,Tahoe Vista,Placer County,Ca
+95537,629,Fields Landing,Humboldt County,Ca
+91963,624,Potrero,San Diego County,Ca
+95432,614,Elk,Mendocino County,Ca
+94613,612,Oakland,Alameda County,Ca
+92347,601,Hinkley,San Bernardino County,Ca
+96128,600,Standish,Lassen County,Ca
+94548,598,Knightsen,Contra Costa County,Ca
+95960,594,North San Juan,Sierra County,Ca
+95922,593,Camptonville,Yuba County,Ca
+96141,592,Homewood,Placer County,Ca
+95427,589,Comptche,Mendocino County,Ca
+93517,587,Bridgeport,Mono County,Ca
+96006,587,Adin,Lassen County,Ca
+92317,567,Blue Jay,San Bernardino County,Ca
+95075,566,Tres Pinos,San Benito County,Ca
+95564,564,Samoa,Humboldt County,Ca
+92309,561,Baker,San Bernardino County,Ca
+96015,560,Canby,Modoc County,Ca
+94104,557,San Francisco,San Francisco County,Ca
+95728,549,Soda Springs,Placer County,Ca
+92258,547,North Palm Springs,Riverside County,Ca
+95585,545,Leggett,Mendocino County,Ca
+95385,531,Vernalis,Stanislaus County,Ca
+95345,528,Midpines,Mariposa County,Ca
+95318,522,El Portal,Mariposa County,Ca
+92092,521,La Jolla,San Diego County,Ca
+95251,521,Vallecito,Calaveras County,Ca
+95444,516,Graton,Sonoma County,Ca
+95230,513,Farmington,Stanislaus County,Ca
+94922,509,Bodega,Sonoma County,Ca
+95668,507,Pleasant Grove,Sutter County,Ca
+92060,506,Palomar Mountain,San Diego County,Ca
+95253,504,Victor,San Joaquin County,Ca
+93224,501,Fellows,Kern County,Ca
+93954,501,San Lucas,Monterey County,Ca
+92305,500,Angelus Oaks,San Bernardino County,Ca
+96038,499,Grenada,Siskiyou County,Ca
+95545,492,Honeydew,Humboldt County,Ca
+95675,487,River Pines,Amador County,Ca
+90742,469,Sunset Beach,Orange County,Ca
+92350,468,Loma Linda,San Bernardino County,Ca
+95970,466,Princeton,Colusa County,Ca
+95935,465,Dobbins,Yuba County,Ca
+96106,465,Clio,Plumas County,Ca
+94963,462,San Geronimo,Marin County,Ca
+95956,458,Meadow Valley,Plumas County,Ca
+95653,455,Madison,Yolo County,Ca
+95914,450,Bangor,Butte County,Ca
+94929,442,Dillon Beach,Marin County,Ca
+95950,442,Grimes,Colusa County,Ca
+92378,437,Rimforest,San Bernardino County,Ca
+90743,434,Surfside,Orange County,Ca
+92333,429,Fawnskin,San Bernardino County,Ca
+96105,429,Chilcoot,Plumas County,Ca
+94938,428,Lagunitas,Marin County,Ca
+93531,425,Keene,Kern County,Ca
+95552,423,Mad River,Trinity County,Ca
+96090,421,Tehama,Tehama County,Ca
+95930,417,Clipper Mills,Butte County,Ca
+95714,411,Dutch Flat,Placer County,Ca
+92268,405,Pioneertown,San Bernardino County,Ca
+96092,402,Vina,Tehama County,Ca
+94970,400,Stinson Beach,Marin County,Ca
+96050,400,Klamath River,Siskiyou County,Ca
+95221,398,Altaville,Calaveras County,Ca
+95257,398,Wilseyville,Calaveras County,Ca
+95941,396,Forbestown,Butte County,Ca
+95983,395,Taylorsville,Plumas County,Ca
+93665,386,South Dos Palos,Merced County,Ca
+93652,378,Raisin City,Fresno County,Ca
+93673,378,Traver,Tulare County,Ca
+95543,376,Gasquet,Del Norte County,Ca
+95939,376,Elk Creek,Glenn County,Ca
+95979,374,Stonyford,Colusa County,Ca
+93932,370,Lockwood,Monterey County,Ca
+95555,370,Orick,Humboldt County,Ca
+93604,366,Bass Lake,Madera County,Ca
+95488,366,Westport,Mendocino County,Ca
+94971,364,Tomales,Marin County,Ca
+96065,364,Montgomery Creek,Shasta County,Ca
+95007,359,Brookdale,Santa Cruz County,Ca
+95601,352,Amador City,Amador County,Ca
+95420,351,Caspar,Mendocino County,Ca
+95254,350,Wallace,Calaveras County,Ca
+95435,347,Finley,Lake County,Ca
+96034,345,Gazelle,Siskiyou County,Ca
+96075,341,Paynes Creek,Tehama County,Ca
+92341,331,Green Valley Lake,San Bernardino County,Ca
+96046,328,Hyampom,Trinity County,Ca
+93669,324,Wishon,Madera County,Ca
+96059,323,Manton,Tehama County,Ca
+96033,321,French Gulch,Shasta County,Ca
+96124,320,Calpine,Sierra County,Ca
+92066,319,Ranchita,San Diego County,Ca
+96016,319,Cassel,Shasta County,Ca
+95639,314,Hood,Sacramento County,Ca
+90071,313,Los Angeles,Los Angeles County,Ca
+93512,313,Benton,Mono County,Ca
+95554,313,Myers Flat,Humboldt County,Ca
+95913,313,Artois,Glenn County,Ca
+95224,311,Avery,Calaveras County,Ca
+91210,310,Glendale,Los Angeles County,Ca
+93628,310,Hume,Fresno County,Ca
+93407,309,San Luis Obispo,San Luis Obispo County,Ca
+93452,307,San Simeon,San Luis Obispo County,Ca
+95837,306,Sacramento,Sacramento County,Ca
+93529,302,June Lake,Mono County,Ca
+91759,299,Mt Baldy,Los Angeles County,Ca
+92239,296,Desert Center,Riverside County,Ca
+93251,293,McKittrick,Kern County,Ca
+93664,288,Shaver Lake,Fresno County,Ca
+96117,288,Litchfield,Lassen County,Ca
+95312,284,Cressey,Merced County,Ca
+95697,281,Yolo,Yolo County,Ca
+95637,276,Guinda,Yolo County,Ca
+95450,272,Jenner,Sonoma County,Ca
+95412,271,Annapolis,Sonoma County,Ca
+96054,269,Lookout,Modoc County,Ca
+96086,268,Seiad Valley,Siskiyou County,Ca
+94940,260,Marshall,Marin County,Ca
+93549,254,Olancha,Inyo County,Ca
+94569,251,Port Costa,Contra Costa County,Ca
+93603,249,Badger,Tulare County,Ca
+95646,249,Kirkwood,Alpine County,Ca
+96009,247,Bieber,Lassen County,Ca
+95558,246,Petrolia,Humboldt County,Ca
+92134,241,San Diego,San Diego County,Ca
+95607,235,Capay,Yolo County,Ca
+96125,234,Sierra City,Sierra County,Ca
+95233,233,Hathaway Pines,Calaveras County,Ca
+93207,232,California Hot Springs,Tulare County,Ca
+96011,232,Big Bend,Shasta County,Ca
+93227,227,Goshen,Tulare County,Ca
+96126,227,Sierraville,Sierra County,Ca
+92259,225,Ocotillo,Imperial County,Ca
+95568,224,Somes Bar,Siskiyou County,Ca
+93563,222,Valyermo,Los Angeles County,Ca
+93641,216,Miramonte,Fresno County,Ca
+95550,213,Korbel,Humboldt County,Ca
+94516,212,Canyon,Contra Costa County,Ca
+95417,211,Branscomb,Mendocino County,Ca
+95232,202,Glencoe,Calaveras County,Ca
+93962,198,Spreckels,Monterey County,Ca
+92155,196,San Diego,San Diego County,Ca
+93627,196,Helm,Fresno County,Ca
+95698,196,Zamora,Yolo County,Ca
+95443,190,Glenhaven,Lake County,Ca
+95925,188,Challenge,Yuba County,Ca
+96133,188,Topaz,Mono County,Ca
+92389,187,Tecopa,Inyo County,Ca
+95606,185,Brooks,Yolo County,Ca
+96074,183,Paskenta,Tehama County,Ca
+92147,180,San Diego,San Diego County,Ca
+93260,178,Posey,Tulare County,Ca
+92332,177,Essex,San Bernardino County,Ca
+95984,177,Twain,Plumas County,Ca
+93621,173,Dunlap,Fresno County,Ca
+96014,173,Callahan,Siskiyou County,Ca
+96112,172,Fort Bidwell,Modoc County,Ca
+94576,171,Deer Park,Napa County,Ca
+92266,170,Palo Verde,Imperial County,Ca
+95419,169,Camp Meeker,Sonoma County,Ca
+92385,167,Skyforest,San Bernardino County,Ca
+95920,164,Butte City,Glenn County,Ca
+95305,158,Big Oak Flat,Tuolumne County,Ca
+94972,153,Valley Ford,Sonoma County,Ca
+96076,152,Platina,Trinity County,Ca
+94074,151,San Gregorio,San Mateo County,Ca
+95494,151,Yorkville,Mendocino County,Ca
+93276,150,Tupman,Kern County,Ca
+96108,149,Davis Creek,Modoc County,Ca
+95910,148,Alleghany,Sierra County,Ca
+96121,145,Milford,Lassen County,Ca
+95493,144,Witter Springs,Lake County,Ca
+95595,143,Zenia,Trinity County,Ca
+96017,143,Castella,Shasta County,Ca
+95972,142,Rackerby,Yuba County,Ca
+91046,141,Verdugo City,Los Angeles County,Ca
+96078,135,Proberta,Tehama County,Ca
+95679,131,Rumsey,Yolo County,Ca
+95736,131,Weimar,Placer County,Ca
+96037,131,Greenview,Siskiyou County,Ca
+95717,129,Gold Run,Placer County,Ca
+93208,127,Camp Nelson,Tulare County,Ca
+90822,125,Long Beach,Los Angeles County,Ca
+96068,125,Nubieber,Lassen County,Ca
+94021,123,Loma Mar,San Mateo County,Ca
+96115,122,Lake City,Modoc County,Ca
+93244,121,Lemon Cove,Tulare County,Ca
+95936,121,Downieville,Sierra County,Ca
+96029,120,Flournoy,Tehama County,Ca
+93287,119,Woody,Kern County,Ca
+95429,118,Dos Rios,Mendocino County,Ca
+95514,117,Blocksburg,Humboldt County,Ca
+95676,113,Robbins,Sutter County,Ca
+95715,110,Emigrant Gap,Placer County,Ca
+93670,108,Yettem,Tulare County,Ca
+93042,107,Point Mugu Nawc,Ventura County,Ca
+94573,107,Rutherford,Napa County,Ca
+95720,107,Kyburz,El Dorado County,Ca
+95248,106,Rail Road Flat,Calaveras County,Ca
+96135,106,Vinton,Plumas County,Ca
+91948,104,Mount Laguna,San Diego County,Ca
+95986,104,Washington,Nevada County,Ca
+91980,103,Tecate,San Diego County,Ca
+95511,102,Alderpoint,Humboldt County,Ca
+93237,98,Kaweah,Tulare County,Ca
+95978,98,Stirling City,Butte County,Ca
+93605,97,Big Creek,Fresno County,Ca
+93528,94,Johannesburg,Kern County,Ca
+93524,93,Edwards,Kern County,Ca
+95140,91,Mount Hamilton,Santa Clara County,Ca
+95569,91,Redcrest,Humboldt County,Ca
+95463,88,Navarro,Mendocino County,Ca
+95625,88,Elmira,Solano County,Ca
+93522,86,Darwin,Inyo County,Ca
+93741,77,Fresno,Fresno County,Ca
+96063,77,Mineral,Tehama County,Ca
+95431,76,Eldridge,Sonoma County,Ca
+96040,71,Hat Creek,Shasta County,Ca
+96031,66,Forks Of Salmon,Siskiyou County,Ca
+93554,65,Randsburg,Kern County,Ca
+95944,65,Goodyears Bar,Sierra County,Ca
+95974,65,Richvale,Butte County,Ca
+93429,64,Casmalia,Santa Barbara County,Ca
+95375,64,Strawberry,Tuolumne County,Ca
+96123,62,Ravendale,Lassen County,Ca
+95699,60,Drytown,Amador County,Ca
+95335,58,Long Barn,Tuolumne County,Ca
+94512,57,Birds Landing,Solano County,Ca
+91608,56,Universal City,Los Angeles County,Ca
+93226,55,Glennville,Kern County,Ca
+95013,53,Coyote,Santa Clara County,Ca
+95981,52,Strawberry Valley,Plumas County,Ca
+95735,51,Twin Bridges,El Dorado County,Ca
+95325,44,Hornitos,Mariposa County,Ca
+95923,43,Canyon Dam,Plumas County,Ca
+96136,40,Wendel,Lassen County,Ca
+96085,38,Scott Bar,Siskiyou County,Ca
+96110,37,Eagleville,Modoc County,Ca
+95604,34,Auburn,Placer County,Ca
+95934,33,Crescent Mills,Plumas County,Ca
+96119,31,Madeline,Lassen County,Ca
+95571,30,Weott,Humboldt County,Ca
+93634,29,Lakeshore,Fresno County,Ca
+93530,28,Keeler,Inyo County,Ca
+96010,28,Big Bar,Trinity County,Ca
+95486,27,Villa Grande,Sonoma County,Ca
+93633,26,Kings Canyon National Pk,Tulare County,Ca
+90747,25,Carson,Los Angeles County,Ca
+92384,23,Shoshone,Inyo County,Ca
+94950,23,Olema,Marin County,Ca
+96111,23,Floriston,Nevada County,Ca
+96116,19,Likely,Modoc County,Ca
+93262,18,Sequoia National Park,Tulare County,Ca
+93558,17,Red Mountain,San Bernardino County,Ca
+96132,17,Termo,Lassen County,Ca
+92161,12,San Diego,San Diego County,Ca
+92364,12,Nipton,San Bernardino County,Ca
+93943,12,Monterey,Monterey County,Ca
+93408,11,San Luis Obispo,San Luis Obispo County,Ca
+95680,9,Ryde,Sacramento County,Ca
+96071,7,Old Station,Shasta County,Ca
+95480,6,Stewarts Point,Sonoma County,Ca
+93623,4,Fish Camp,Mariposa County,Ca

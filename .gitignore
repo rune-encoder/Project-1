@@ -175,6 +175,7 @@ population_2010-2019.csv
 # ║       Large CSV Files (Cleaned)        ║
 # ╚════════════════════════════════════════╝
 *ev_registrations.csv
+*registrations.csv
 *zipcodes.csv
 *population.csv
 

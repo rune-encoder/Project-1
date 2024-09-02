@@ -177,6 +177,8 @@ population_2010-2019.csv
 *ev_registrations.csv
 *registrations.csv
 *zipcodes.csv
+*analysis.csv
 *population.csv
+veh_registrations/
 
 test.ipynb

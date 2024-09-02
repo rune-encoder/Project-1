@@ -181,4 +181,6 @@ population_2010-2019.csv
 *population.csv
 veh_registrations/
 
+*percent_change.csv
+*adoption_rates.csv
 test.ipynb

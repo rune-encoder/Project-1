@@ -1,0 +1,162 @@
+year,county,ev_station_count,cumulative_ev_stations
+1995,Los Angeles County,1,1
+1996,Los Angeles County,1,2
+1997,Los Angeles County,4,6
+1997,Riverside County,1,1
+1997,San Diego County,1,1
+1998,Los Angeles County,6,12
+1998,Other California Counties,4,4
+1998,Riverside County,1,2
+1998,Sacramento County,1,1
+1998,San Bernardino County,1,1
+1999,Los Angeles County,1,13
+2000,Other California Counties,3,3
+2002,Los Angeles County,6,19
+2002,Orange County,2,2
+2002,Other California Counties,8,10
+2004,Other California Counties,10,11
+2004,Sacramento County,3,4
+2005,Other California Counties,3,10
+2006,Other California Counties,1,11
+2006,San Diego County,1,2
+2008,Other California Counties,14,27
+2009,Other California Counties,2,15
+2010,Los Angeles County,2,21
+2010,Other California Counties,3,4
+2011,Contra Costa County,3,3
+2011,Fresno County,2,2
+2011,Los Angeles County,20,41
+2011,Orange County,11,13
+2011,Other California Counties,45,88
+2011,Riverside County,10,12
+2011,Sacramento County,3,7
+2011,San Bernardino County,5,6
+2011,San Diego County,10,12
+2011,Santa Clara County,3,3
+2012,Los Angeles County,22,63
+2012,Orange County,7,20
+2012,Other California Counties,46,128
+2012,Riverside County,3,15
+2012,Sacramento County,6,13
+2012,San Bernardino County,4,10
+2012,San Diego County,10,22
+2012,Santa Clara County,9,12
+2013,Contra Costa County,1,4
+2013,Fresno County,1,3
+2013,Los Angeles County,23,86
+2013,Orange County,9,29
+2013,Other California Counties,41,161
+2013,Riverside County,21,36
+2013,Sacramento County,10,23
+2013,San Bernardino County,1,11
+2013,San Diego County,6,28
+2013,Santa Clara County,6,18
+2014,Contra Costa County,1,5
+2014,Los Angeles County,60,146
+2014,Orange County,8,37
+2014,Other California Counties,103,277
+2014,Riverside County,10,46
+2014,Sacramento County,4,27
+2014,San Bernardino County,2,13
+2014,San Diego County,13,41
+2014,Santa Clara County,9,27
+2015,Contra Costa County,3,8
+2015,Fresno County,4,7
+2015,Los Angeles County,65,211
+2015,Orange County,29,66
+2015,Other California Counties,192,468
+2015,Riverside County,13,59
+2015,Sacramento County,4,31
+2015,San Bernardino County,4,17
+2015,San Diego County,36,77
+2015,Santa Clara County,14,41
+2016,Contra Costa County,2,10
+2016,Fresno County,4,11
+2016,Los Angeles County,49,260
+2016,Orange County,16,82
+2016,Other California Counties,131,570
+2016,Riverside County,16,75
+2016,Sacramento County,4,35
+2016,San Bernardino County,10,27
+2016,San Diego County,34,111
+2016,Santa Clara County,18,59
+2017,Contra Costa County,2,12
+2017,Fresno County,17,28
+2017,Los Angeles County,39,299
+2017,Orange County,12,94
+2017,Other California Counties,116,643
+2017,Riverside County,12,87
+2017,Sacramento County,3,38
+2017,San Bernardino County,8,35
+2017,San Diego County,19,130
+2017,Santa Clara County,24,83
+2018,Contra Costa County,12,24
+2018,Fresno County,7,35
+2018,Los Angeles County,166,465
+2018,Orange County,26,120
+2018,Other California Counties,172,818
+2018,Riverside County,19,106
+2018,Sacramento County,11,49
+2018,San Bernardino County,14,49
+2018,San Diego County,25,155
+2018,Santa Clara County,44,127
+2019,Contra Costa County,13,37
+2019,Fresno County,10,45
+2019,Los Angeles County,156,621
+2019,Orange County,30,150
+2019,Other California Counties,157,986
+2019,Riverside County,23,129
+2019,Sacramento County,16,65
+2019,San Bernardino County,10,59
+2019,San Diego County,36,191
+2019,Santa Clara County,38,165
+2020,Contra Costa County,75,112
+2020,Fresno County,40,85
+2020,Los Angeles County,749,1370
+2020,Orange County,349,499
+2020,Other California Counties,826,1848
+2020,Riverside County,116,245
+2020,Sacramento County,60,125
+2020,San Bernardino County,67,126
+2020,San Diego County,198,389
+2020,Santa Clara County,248,413
+2021,Contra Costa County,145,257
+2021,Fresno County,115,200
+2021,Los Angeles County,1112,2482
+2021,Orange County,792,1291
+2021,Other California Counties,1720,3566
+2021,Riverside County,169,414
+2021,Sacramento County,185,310
+2021,San Bernardino County,124,250
+2021,San Diego County,329,718
+2021,Santa Clara County,908,1321
+2022,Contra Costa County,31,288
+2022,Fresno County,61,261
+2022,Los Angeles County,712,3194
+2022,Orange County,245,1536
+2022,Other California Counties,757,4287
+2022,Riverside County,79,493
+2022,Sacramento County,133,443
+2022,San Bernardino County,78,328
+2022,San Diego County,369,1087
+2022,Santa Clara County,127,1448
+2023,Contra Costa County,50,338
+2023,Fresno County,39,300
+2023,Los Angeles County,637,3831
+2023,Orange County,276,1812
+2023,Other California Counties,865,5168
+2023,Riverside County,68,561
+2023,Sacramento County,87,530
+2023,San Bernardino County,90,418
+2023,San Diego County,194,1281
+2023,Santa Clara County,167,1615
+2024,Contra Costa County,50,388
+2024,Fresno County,34,334
+2024,Los Angeles County,409,4240
+2024,Orange County,88,1900
+2024,Other California Counties,619,5701
+2024,Riverside County,42,603
+2024,Sacramento County,46,576
+2024,San Bernardino County,84,502
+2024,San Diego County,156,1437
+2024,Santa Clara County,96,1711

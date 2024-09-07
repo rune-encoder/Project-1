@@ -171,7 +171,10 @@ cython_debug/
 population_2020-2023.csv
 population_2010-2019.csv
 *population_2024.csv
-
+tx_ev_reg_pop_inc_st_merge.ipynb
+fl_ev_reg_pop_inc_st_merge.ipynb
+tx_.csv
+fl_.csv
 # ╔════════════════════════════════════════╗
 # ║       Large CSV Files (Cleaned)        ║
 # ╚════════════════════════════════════════╝
@@ -184,6 +187,5 @@ veh_registrations/
 
 *percent_change.csv
 *adoption_rates.csv
-test.ipynb
 *_2024.csv
 *_progression.csv

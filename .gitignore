@@ -162,6 +162,7 @@ cython_debug/
 #.idea/
 
 .DS_Store
+.virtual_documents
 
 # ╔════════════════════════════════════════╗
 # ║       Large CSV Files (Raw Data)       ║

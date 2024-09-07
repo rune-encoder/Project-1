@@ -161,8 +161,12 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
+# ╔════════════════════════════════════════╗
+# ║   Jupyter, macOS, and Visual Studio    ║
+# ╚════════════════════════════════════════╝
 .DS_Store
 .virtual_documents
+.vscode
 
 # ╔════════════════════════════════════════╗
 # ║       Large CSV Files (Raw Data)       ║
@@ -171,7 +175,6 @@ cython_debug/
 population_2020-2023.csv
 population_2010-2019.csv
 *population_2024.csv
-visual_counties_adoption_rate.ipynb
 
 # ╔════════════════════════════════════════╗
 # ║       Large CSV Files (Cleaned)        ║
@@ -181,8 +184,6 @@ visual_counties_adoption_rate.ipynb
 *zipcodes.csv
 *analysis.csv
 *population.csv
-veh_registrations/
-
 *percent_change.csv
 *adoption_rates.csv
 *_2024.csv

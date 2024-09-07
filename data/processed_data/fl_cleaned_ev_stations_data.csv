@@ -1,0 +1,144 @@
+year,cleaned_county,ev_station_count,cumulative_ev_stations
+2011,Broward County,3,3
+2011,Duval County,3,3
+2011,Hillsborough County,5,5
+2011,Lee County,2,2
+2011,Miami-Dade County,8,8
+2011,Orange County,4,4
+2011,Other Florida Counties,9,9
+2011,Palm Beach County,4,4
+2011,Pinellas County,1,1
+2011,Polk County,1,1
+2012,Brevard County,3,3
+2012,Broward County,3,6
+2012,Duval County,2,5
+2012,Hillsborough County,3,8
+2012,Lee County,1,3
+2012,Miami-Dade County,2,10
+2012,Orange County,13,17
+2012,Other Florida Counties,25,27
+2012,Palm Beach County,6,10
+2012,Pinellas County,10,11
+2012,Polk County,2,3
+2013,Brevard County,1,4
+2013,Broward County,3,9
+2013,Miami-Dade County,4,14
+2013,Orange County,5,22
+2013,Other Florida Counties,7,18
+2013,Palm Beach County,3,13
+2013,Pinellas County,1,12
+2014,Broward County,6,15
+2014,Hillsborough County,2,10
+2014,Lee County,1,4
+2014,Miami-Dade County,12,26
+2014,Orange County,3,25
+2014,Other Florida Counties,8,17
+2014,Palm Beach County,6,19
+2014,Pinellas County,1,13
+2014,Polk County,1,4
+2015,Brevard County,5,9
+2015,Broward County,13,28
+2015,Duval County,3,8
+2015,Hillsborough County,3,13
+2015,Lee County,3,7
+2015,Miami-Dade County,14,40
+2015,Orange County,5,30
+2015,Other Florida Counties,43,66
+2015,Palm Beach County,9,28
+2015,Pinellas County,4,17
+2016,Brevard County,4,13
+2016,Broward County,8,36
+2016,Duval County,1,9
+2016,Hillsborough County,9,22
+2016,Lee County,2,9
+2016,Miami-Dade County,26,66
+2016,Orange County,10,40
+2016,Other Florida Counties,30,93
+2016,Palm Beach County,6,34
+2016,Pinellas County,2,19
+2017,Brevard County,4,17
+2017,Broward County,17,53
+2017,Duval County,4,13
+2017,Hillsborough County,14,36
+2017,Lee County,1,10
+2017,Miami-Dade County,21,87
+2017,Orange County,24,64
+2017,Other Florida Counties,75,165
+2017,Palm Beach County,6,40
+2017,Pinellas County,9,28
+2018,Brevard County,4,21
+2018,Broward County,17,70
+2018,Duval County,4,17
+2018,Hillsborough County,13,49
+2018,Lee County,5,15
+2018,Miami-Dade County,53,140
+2018,Orange County,19,83
+2018,Other Florida Counties,46,193
+2018,Palm Beach County,22,62
+2018,Pinellas County,9,37
+2019,Brevard County,6,27
+2019,Broward County,19,89
+2019,Duval County,9,26
+2019,Hillsborough County,19,68
+2019,Lee County,5,20
+2019,Miami-Dade County,52,192
+2019,Orange County,19,102
+2019,Other Florida Counties,54,254
+2019,Palm Beach County,20,82
+2019,Pinellas County,2,39
+2019,Polk County,2,6
+2020,Brevard County,6,33
+2020,Broward County,30,119
+2020,Duval County,18,44
+2020,Hillsborough County,21,89
+2020,Lee County,5,25
+2020,Miami-Dade County,65,257
+2020,Orange County,26,128
+2020,Other Florida Counties,86,360
+2020,Palm Beach County,19,101
+2020,Pinellas County,6,45
+2020,Polk County,7,13
+2021,Brevard County,12,45
+2021,Broward County,85,204
+2021,Duval County,19,63
+2021,Hillsborough County,43,132
+2021,Lee County,17,42
+2021,Miami-Dade County,137,394
+2021,Orange County,44,172
+2021,Other Florida Counties,172,493
+2021,Palm Beach County,69,170
+2021,Pinellas County,9,54
+2021,Polk County,5,18
+2022,Brevard County,70,115
+2022,Broward County,82,286
+2022,Duval County,22,85
+2022,Hillsborough County,51,183
+2022,Lee County,31,73
+2022,Miami-Dade County,118,512
+2022,Orange County,31,203
+2022,Other Florida Counties,191,720
+2022,Palm Beach County,73,243
+2022,Pinellas County,23,77
+2022,Polk County,4,22
+2023,Brevard County,12,127
+2023,Broward County,60,346
+2023,Duval County,25,110
+2023,Hillsborough County,46,229
+2023,Lee County,18,91
+2023,Miami-Dade County,99,611
+2023,Orange County,122,325
+2023,Other Florida Counties,155,838
+2023,Palm Beach County,43,286
+2023,Pinellas County,27,104
+2023,Polk County,18,40
+2024,Brevard County,11,138
+2024,Broward County,46,392
+2024,Duval County,23,133
+2024,Hillsborough County,22,251
+2024,Lee County,8,99
+2024,Miami-Dade County,76,687
+2024,Orange County,97,422
+2024,Other Florida Counties,201,1039
+2024,Palm Beach County,23,309
+2024,Pinellas County,55,159
+2024,Polk County,9,49

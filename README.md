@@ -127,13 +127,16 @@ _Population:_
 - https://www.california-demographics.com/zip_codes_by_population 
 - https://www.florida-demographics.com/zip_codes_by_population 
 
+_Zip Codes:_
+- https://www.unitedstateszipcodes.org/fl/
+
 _Income:_ 
 - https://www.data.census.gov
 
 _Charging Stations:_
 - JD Powers
 
-**Articles Obtained from...**  
+>**Articles Obtained from...**  
 
 _2017 Oklahoma Increase EV Sales:_
 - https://www.okenergytoday.com/2018/10/oklahoma-saw-biggest-nationwide-increase-in-electric-vehicle-sales/
@@ -144,3 +147,9 @@ _2017 Oklahoma EV infrastructure:_
 _2020 Orange County growth rate changes:_
 - https://www.ocregister.com/2017/11/09/tax-plan-would-hit-gov-browns-special-treatment-of-electric-cars/
 - https://www.ocregister.com/2017/04/24/orange-county-electric-vehicle-pioneer-fuels-passion-for-irvine-students/
+
+
+>**Shape files Obtained from...**  
+- https://raw.githubusercontent.com/OpenDataDE/State-zip-code-GeoJSON/master/ca_california_zip_codes_geo.min.json
+- https://raw.githubusercontent.com/OpenDataDE/State-zip-code-GeoJSON/master/fl_florida_zip_codes_geo.min.json
+- https://raw.githubusercontent.com/OpenDataDE/State-zip-code-GeoJSON/master/tx_texas_zip_codes_geo.min.json

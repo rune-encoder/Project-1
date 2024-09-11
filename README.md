@@ -24,10 +24,17 @@
 
 ## **Project Overview**
 
+This project explores the adoption of Electric Vehicles (EV) across the United States with a special focus on key states such as California, Texas, and Florida. We use data analysis and modeling to track EV adoption trends, correlate them with demographic factors (like population and income), and evaluate the availability of infrastructure (charging stations). The goal is to provide insights into the current state of EV adoption and forecast future trends.
 This project aims to analyze electric vehicle (EV) adoption and infrastructure trends across the United States, with a deep dive into Florida, Texas, and California. By examining EV registrations, adoption rates, growth rates, and the role of factors such as median income and charging stations, the project provides insights into the current and future landscape of EV adoption.
 
 ## **Dataset Information**
 
+The datasets used for this project are drawn from multiple sources, covering:
+
+EV Registrations: Yearly vehicle registration data at both state and national levels.
+Charging Stations: Data on the installation of charging stations by state.
+Demographic Data: Population density and median income at the zip code and county levels for all 50 states, with specific deep dives into Florida, Texas, and California.
+Historical Data: Year-over-year changes in EV and gasoline vehicle registrations to track trends.
 The data includes the following features for each state and county:
 - Year
 - State and County Names
@@ -44,6 +51,11 @@ The dataset was cleaned and transformed for analysis, including handling missing
 ## **Analysis Approach**
 
 The analysis consists of two main parts:
+
+National Overview (All 50 States):
+Yearly EV registration data for all 50 states.
+Correlation analysis between population density, income levels, and EV adoption.
+Evaluation of charging infrastructure by state and its impact on adoption rates.
 1. **National Overview (All 50 States):**
    - EV registrations and gasoline registrations over time.
    - Adoption rates of EVs and gasoline vehicles.
@@ -51,12 +63,18 @@ The analysis consists of two main parts:
    - Statistical summaries including mean, median, and standard deviation.
    - Five-year forecast using the Prophet model.
 
+State-Specific Deep Dive (Florida, Texas, California):
+Detailed examination of EV adoption at the zip code and county levels.
+Comparison of EV registrations and charging infrastructure growth within these key states.
+Analysis of state-led incentives and their correlation with adoption trends.
+
 2. **State-Specific Deep Dive (Florida, Texas, California):**
    - EV registrations, adoption rates, and growth rates per county.
    - Correlation analysis between EV adoption, median income, and charging stations.
    - Geospatial visualizations of EV adoption by zip code.
 
 ## **Visualizations and Findings**
+The analysis includes a series of visualizations to highlight key findings:
 
 The following key visualizations were produced:
 - **Line plots** for EV and gasoline registrations over time.
@@ -72,12 +90,21 @@ These visualizations revealed:
 
 ## **Conclusion and Implications**
 
+Our analysis reveals that:
+
+National Trends: EV adoption is steadily increasing across the U.S., driven by higher-income states and better-developed infrastructure.
+State-Level Trends: California leads in EV adoption, with Texas and Florida showing rapid growth due to increased state incentives.
+Key Drivers: Income levels, population density, and charging infrastructure availability are key factors influencing EV adoption.
+Future Market: States investing in infrastructure and offering strong incentives will see accelerated growth in EV adoption over the next decade.
 The findings suggest that:
 - Wealthier counties and those with more charging infrastructure are leading in EV adoption.
 - EV adoption is expected to continue growing, with a projected increase in registrations over the next five years.
 - Policymakers should focus on expanding charging infrastructure and consider income-based incentives to drive adoption in underserved regions.
 
 ## **Future Work**
+Expand for evaluation and deep dive of 20 key states
+Include Gender/Ethnic distribution factors
+Expand to compare with workd trends
 
 With more time, further analysis could include:
 - **Clustering analysis** to group counties with similar characteristics for targeted policy recommendations.

@@ -153,3 +153,9 @@ _2020 Orange County growth rate changes:_
 - https://raw.githubusercontent.com/OpenDataDE/State-zip-code-GeoJSON/master/ca_california_zip_codes_geo.min.json
 - https://raw.githubusercontent.com/OpenDataDE/State-zip-code-GeoJSON/master/fl_florida_zip_codes_geo.min.json
 - https://raw.githubusercontent.com/OpenDataDE/State-zip-code-GeoJSON/master/tx_texas_zip_codes_geo.min.json
+
+_Documentation for Plotly:_
+- https://plotly.github.io/plotly.py-docs/generated/plotly.express.choropleth_mapbox.html
+
+> **Mappping GEOCODE from california data obtained from...**
+- https://www2.census.gov/geo/docs/reference/codes2020/cou/st06_ca_cou2020.txt"
